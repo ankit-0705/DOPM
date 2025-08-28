@@ -51,17 +51,6 @@ coverage.xml
 # Streamlit cache
 .streamlit/
 
-# Data or model outputs (optional — remove if you want to track these)
-*.csv
-*.tsv
-*.xlsx
-*.xls
-*.h5
-*.pkl
-*.joblib
-*.model
-*.sav
-
 # Notebook output (optional)
 *.out
 *.pdf
