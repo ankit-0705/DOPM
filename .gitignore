@@ -1,0 +1,77 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# VS Code settings
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Log files
+*.log
+
+# pytest cache
+.pytest_cache/
+
+# MyPy, Pyright, Pyre, Pytype, etc.
+.mypy_cache/
+.pyre/
+.pytype/
+
+# Coverage reports
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+.cache
+
+# pyarrow or parquet-generated files
+*.parquet
+
+# Streamlit cache
+.streamlit/
+
+# Data or model outputs (optional — remove if you want to track these)
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.h5
+*.pkl
+*.joblib
+*.model
+*.sav
+
+# Notebook output (optional)
+*.out
+*.pdf
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Ignore gitignore itself in nested directories
+!.gitignore
