@@ -48,9 +48,6 @@ coverage.xml
 # pyarrow or parquet-generated files
 *.parquet
 
-# Streamlit cache
-.streamlit/
-
 # Notebook output (optional)
 *.out
 *.pdf
@@ -64,3 +61,9 @@ coverage.xml
 
 # Ignore gitignore itself in nested directories
 !.gitignore
+
+# Ignore everything in .streamlit
+.streamlit/*
+
+# But do NOT ignore config.toml inside .streamlit
+!.streamlit/config.toml
