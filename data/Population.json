@@ -1,0 +1,3662 @@
+[
+ {
+   "Ranking": 1,
+   "District": "Thane",
+   "State": "Maharashtra",
+   "Population": "11,060,148"
+ },
+ {
+   "Ranking": 2,
+   "District": "North Twenty Four Parganas",
+   "State": "West Bengal",
+   "Population": "10,009,781"
+ },
+ {
+   "Ranking": 3,
+   "District": "Bangalore",
+   "State": "Karnataka",
+   "Population": "9,621,551"
+ },
+ {
+   "Ranking": 4,
+   "District": "Pune",
+   "State": "Maharashtra",
+   "Population": "9,429,408"
+ },
+ {
+   "Ranking": 5,
+   "District": "Mumbai Suburban",
+   "State": "Maharashtra",
+   "Population": "9,356,962"
+ },
+ {
+   "Ranking": 6,
+   "District": "South Twenty Four Parganas",
+   "State": "West Bengal",
+   "Population": "8,161,961"
+ },
+ {
+   "Ranking": 7,
+   "District": "Barddhaman",
+   "State": "West Bengal",
+   "Population": "7,717,563"
+ },
+ {
+   "Ranking": 8,
+   "District": "Ahmadabad",
+   "State": "Gujarat",
+   "Population": "7,214,225"
+ },
+ {
+   "Ranking": 9,
+   "District": "Murshidabad",
+   "State": "West Bengal",
+   "Population": "7,103,807"
+ },
+ {
+   "Ranking": 10,
+   "District": "Jaipur",
+   "State": "Rajasthan",
+   "Population": "6,626,178"
+ },
+ {
+   "Ranking": 11,
+   "District": "Nashik",
+   "State": "Maharashtra",
+   "Population": "6,107,187"
+ },
+ {
+   "Ranking": 12,
+   "District": "Surat",
+   "State": "Gujarat",
+   "Population": "6,081,322"
+ },
+ {
+   "Ranking": 13,
+   "District": "Allahabad",
+   "State": "Uttar Pradesh",
+   "Population": "5,954,391"
+ },
+ {
+   "Ranking": 14,
+   "District": "Paschim Medinipur",
+   "State": "West Bengal",
+   "Population": "5,913,457"
+ },
+ {
+   "Ranking": 15,
+   "District": "Patna",
+   "State": "Bihar",
+   "Population": "5,838,465"
+ },
+ {
+   "Ranking": 16,
+   "District": "Hugli",
+   "State": "West Bengal",
+   "Population": "5,519,145"
+ },
+ {
+   "Ranking": 17,
+   "District": "Rangareddy",
+   "State": "Andhra Pradesh",
+   "Population": "5,296,741"
+ },
+ {
+   "Ranking": 18,
+   "District": "Nadia",
+   "State": "West Bengal",
+   "Population": "5,167,600"
+ },
+ {
+   "Ranking": 19,
+   "District": "East Godavari",
+   "State": "Andhra Pradesh",
+   "Population": "5,154,296"
+ },
+ {
+   "Ranking": 20,
+   "District": "Purbi Champaran",
+   "State": "Bihar",
+   "Population": "5,099,371"
+ },
+ {
+   "Ranking": 21,
+   "District": "Purba Medinipur",
+   "State": "West Bengal",
+   "Population": "5,095,875"
+ },
+ {
+   "Ranking": 22,
+   "District": "Guntur",
+   "State": "Andhra Pradesh",
+   "Population": "4,887,813"
+ },
+ {
+   "Ranking": 23,
+   "District": "Haora",
+   "State": "West Bengal",
+   "Population": "4,850,029"
+ },
+ {
+   "Ranking": 24,
+   "District": "Muzaffarpur",
+   "State": "Bihar",
+   "Population": "4,801,062"
+ },
+ {
+   "Ranking": 25,
+   "District": "Belgaum",
+   "State": "Karnataka",
+   "Population": "4,779,661"
+ },
+ {
+   "Ranking": 26,
+   "District": "Moradabad",
+   "State": "Uttar Pradesh",
+   "Population": "4,772,006"
+ },
+ {
+   "Ranking": 27,
+   "District": "Ghaziabad",
+   "State": "Uttar Pradesh",
+   "Population": "4,681,645"
+ },
+ {
+   "Ranking": 28,
+   "District": "Nagpur",
+   "State": "Maharashtra",
+   "Population": "4,653,570"
+ },
+ {
+   "Ranking": 29,
+   "District": "Chennai",
+   "State": "Tamil Nadu",
+   "Population": "4,646,732"
+ },
+ {
+   "Ranking": 30,
+   "District": "Azamgarh",
+   "State": "Uttar Pradesh",
+   "Population": "4,613,913"
+ },
+ {
+   "Ranking": 31,
+   "District": "Lucknow",
+   "State": "Uttar Pradesh",
+   "Population": "4,589,838"
+ },
+ {
+   "Ranking": 32,
+   "District": "Kanpur Nagar",
+   "State": "Uttar Pradesh",
+   "Population": "4,581,268"
+ },
+ {
+   "Ranking": 33,
+   "District": "Ahmadnagar",
+   "State": "Maharashtra",
+   "Population": "4,543,159"
+ },
+ {
+   "Ranking": 34,
+   "District": "Krishna",
+   "State": "Andhra Pradesh",
+   "Population": "4,517,398"
+ },
+ {
+   "Ranking": 35,
+   "District": "Kolkata",
+   "State": "West Bengal",
+   "Population": "4,496,694"
+ },
+ {
+   "Ranking": 36,
+   "District": "Jaunpur",
+   "State": "Uttar Pradesh",
+   "Population": "4,494,204"
+ },
+ {
+   "Ranking": 37,
+   "District": "Madhubani",
+   "State": "Bihar",
+   "Population": "4,487,379"
+ },
+ {
+   "Ranking": 38,
+   "District": "Sitapur",
+   "State": "Uttar Pradesh",
+   "Population": "4,483,992"
+ },
+ {
+   "Ranking": 39,
+   "District": "Bareilly",
+   "State": "Uttar Pradesh",
+   "Population": "4,448,359"
+ },
+ {
+   "Ranking": 40,
+   "District": "Gorakhpur",
+   "State": "Uttar Pradesh",
+   "Population": "4,440,895"
+ },
+ {
+   "Ranking": 41,
+   "District": "Agra",
+   "State": "Uttar Pradesh",
+   "Population": "4,418,797"
+ },
+ {
+   "Ranking": 42,
+   "District": "Gaya",
+   "State": "Bihar",
+   "Population": "4,391,418"
+ },
+ {
+   "Ranking": 43,
+   "District": "Solapur",
+   "State": "Maharashtra",
+   "Population": "4,317,756"
+ },
+ {
+   "Ranking": 44,
+   "District": "Visakhapatnam",
+   "State": "Andhra Pradesh",
+   "Population": "4,290,589"
+ },
+ {
+   "Ranking": 45,
+   "District": "Samastipur",
+   "State": "Bihar",
+   "Population": "4,261,566"
+ },
+ {
+   "Ranking": 46,
+   "District": "Jalgaon",
+   "State": "Maharashtra",
+   "Population": "4,229,917"
+ },
+ {
+   "Ranking": 47,
+   "District": "Chittoor",
+   "State": "Andhra Pradesh",
+   "Population": "4,174,064"
+ },
+ {
+   "Ranking": 48,
+   "District": "Vadodara",
+   "State": "Gujarat",
+   "Population": "4,165,626"
+ },
+ {
+   "Ranking": 49,
+   "District": "Muzaffarnagar",
+   "State": "Uttar Pradesh",
+   "Population": "4,143,512"
+ },
+ {
+   "Ranking": 50,
+   "District": "Malappuram",
+   "State": "Kerala",
+   "Population": "4,112,920"
+ },
+ {
+   "Ranking": 51,
+   "District": "Hardoi",
+   "State": "Uttar Pradesh",
+   "Population": "4,092,845"
+ },
+ {
+   "Ranking": 52,
+   "District": "Anantapur",
+   "State": "Andhra Pradesh",
+   "Population": "4,081,148"
+ },
+ {
+   "Ranking": 53,
+   "District": "Raipur",
+   "State": "Chhattisgarh",
+   "Population": "4,063,872"
+ },
+ {
+   "Ranking": 54,
+   "District": "Kurnool",
+   "State": "Andhra Pradesh",
+   "Population": "4,053,463"
+ },
+ {
+   "Ranking": 55,
+   "District": "Mahbubnagar",
+   "State": "Andhra Pradesh",
+   "Population": "4,053,028"
+ },
+ {
+   "Ranking": 56,
+   "District": "Kheri",
+   "State": "Uttar Pradesh",
+   "Population": "4,021,243"
+ },
+ {
+   "Ranking": 57,
+   "District": "Kancheepuram",
+   "State": "Tamil Nadu",
+   "Population": "3,998,252"
+ },
+ {
+   "Ranking": 58,
+   "District": "Maldah",
+   "State": "West Bengal",
+   "Population": "3,988,845"
+ },
+ {
+   "Ranking": 59,
+   "District": "Saran",
+   "State": "Bihar",
+   "Population": "3,951,862"
+ },
+ {
+   "Ranking": 60,
+   "District": "Hyderabad",
+   "State": "Andhra Pradesh",
+   "Population": "3,943,323"
+ },
+ {
+   "Ranking": 61,
+   "District": "Darbhanga",
+   "State": "Bihar",
+   "Population": "3,937,385"
+ },
+ {
+   "Ranking": 62,
+   "District": "West Godavari",
+   "State": "Andhra Pradesh",
+   "Population": "3,936,966"
+ },
+ {
+   "Ranking": 63,
+   "District": "Vellore",
+   "State": "Tamil Nadu",
+   "Population": "3,936,331"
+ },
+ {
+   "Ranking": 64,
+   "District": "Pashchim Champaran",
+   "State": "Bihar",
+   "Population": "3,935,042"
+ },
+ {
+   "Ranking": 65,
+   "District": "Kolhapur",
+   "State": "Maharashtra",
+   "Population": "3,876,001"
+ },
+ {
+   "Ranking": 66,
+   "District": "Jalpaiguri",
+   "State": "West Bengal",
+   "Population": "3,872,846"
+ },
+ {
+   "Ranking": 67,
+   "District": "Rajkot",
+   "State": "Gujarat",
+   "Population": "3,804,558"
+ },
+ {
+   "Ranking": 68,
+   "District": "Sultanpur",
+   "State": "Uttar Pradesh",
+   "Population": "3,797,117"
+ },
+ {
+   "Ranking": 69,
+   "District": "Karimnagar",
+   "State": "Andhra Pradesh",
+   "Population": "3,776,269"
+ },
+ {
+   "Ranking": 70,
+   "District": "Thiruvallur",
+   "State": "Tamil Nadu",
+   "Population": "3,728,104"
+ },
+ {
+   "Ranking": 71,
+   "District": "Aurangabad",
+   "State": "Maharashtra",
+   "Population": "3,701,282"
+ },
+ {
+   "Ranking": 72,
+   "District": "Jodhpur",
+   "State": "Rajasthan",
+   "Population": "3,687,165"
+ },
+ {
+   "Ranking": 73,
+   "District": "Bijnor",
+   "State": "Uttar Pradesh",
+   "Population": "3,682,713"
+ },
+ {
+   "Ranking": 74,
+   "District": "Budaun",
+   "State": "Uttar Pradesh",
+   "Population": "3,681,896"
+ },
+ {
+   "Ranking": 75,
+   "District": "Varanasi",
+   "State": "Uttar Pradesh",
+   "Population": "3,676,841"
+ },
+ {
+   "Ranking": 76,
+   "District": "Alwar",
+   "State": "Rajasthan",
+   "Population": "3,674,179"
+ },
+ {
+   "Ranking": 77,
+   "District": "Aligarh",
+   "State": "Uttar Pradesh",
+   "Population": "3,673,889"
+ },
+ {
+   "Ranking": 78,
+   "District": "North West Delhi",
+   "State": "Delhi",
+   "Population": "3,656,539"
+ },
+ {
+   "Ranking": 79,
+   "District": "Ghazipur",
+   "State": "Uttar Pradesh",
+   "Population": "3,620,268"
+ },
+ {
+   "Ranking": 80,
+   "District": "Bankura",
+   "State": "West Bengal",
+   "Population": "3,596,674"
+ },
+ {
+   "Ranking": 81,
+   "District": "Kushinagar",
+   "State": "Uttar Pradesh",
+   "Population": "3,564,544"
+ },
+ {
+   "Ranking": 82,
+   "District": "Ganjam",
+   "State": "Orissa",
+   "Population": "3,529,031"
+ },
+ {
+   "Ranking": 83,
+   "District": "Warangal",
+   "State": "Andhra Pradesh",
+   "Population": "3,512,576"
+ },
+ {
+   "Ranking": 84,
+   "District": "Birbhum",
+   "State": "West Bengal",
+   "Population": "3,502,404"
+ },
+ {
+   "Ranking": 85,
+   "District": "Bulandshahar",
+   "State": "Uttar Pradesh",
+   "Population": "3,499,171"
+ },
+ {
+   "Ranking": 86,
+   "District": "Ludhiana",
+   "State": "Punjab",
+   "Population": "3,498,739"
+ },
+ {
+   "Ranking": 87,
+   "District": "Vaishali",
+   "State": "Bihar",
+   "Population": "3,495,021"
+ },
+ {
+   "Ranking": 88,
+   "District": "Nalgonda",
+   "State": "Andhra Pradesh",
+   "Population": "3,488,809"
+ },
+ {
+   "Ranking": 89,
+   "District": "Bahraich",
+   "State": "Uttar Pradesh",
+   "Population": "3,487,731"
+ },
+ {
+   "Ranking": 90,
+   "District": "Salem",
+   "State": "Tamil Nadu",
+   "Population": "3,482,056"
+ },
+ {
+   "Ranking": 91,
+   "District": "Saharanpur",
+   "State": "Uttar Pradesh",
+   "Population": "3,466,382"
+ },
+ {
+   "Ranking": 92,
+   "District": "Viluppuram",
+   "State": "Tamil Nadu",
+   "Population": "3,458,873"
+ },
+ {
+   "Ranking": 93,
+   "District": "Coimbatore",
+   "State": "Tamil Nadu",
+   "Population": "3,458,045"
+ },
+ {
+   "Ranking": 94,
+   "District": "Meerut",
+   "State": "Uttar Pradesh",
+   "Population": "3,443,689"
+ },
+ {
+   "Ranking": 95,
+   "District": "Gonda",
+   "State": "Uttar Pradesh",
+   "Population": "3,433,919"
+ },
+ {
+   "Ranking": 96,
+   "District": "Sitamarhi",
+   "State": "Bihar",
+   "Population": "3,423,574"
+ },
+ {
+   "Ranking": 97,
+   "District": "Rae Bareli",
+   "State": "Uttar Pradesh",
+   "Population": "3,405,559"
+ },
+ {
+   "Ranking": 98,
+   "District": "Prakasam",
+   "State": "Andhra Pradesh",
+   "Population": "3,397,448"
+ },
+ {
+   "Ranking": 99,
+   "District": "Nanded",
+   "State": "Maharashtra",
+   "Population": "3,361,292"
+ },
+ {
+   "Ranking": 100,
+   "District": "Durg",
+   "State": "Chhattisgarh",
+   "Population": "3,343,872"
+ },
+ {
+   "Ranking": 101,
+   "District": "Siwan",
+   "State": "Bihar",
+   "Population": "3,330,464"
+ },
+ {
+   "Ranking": 102,
+   "District": "Nagaur",
+   "State": "Rajasthan",
+   "Population": "3,307,743"
+ },
+ {
+   "Ranking": 103,
+   "District": "Thiruvananthapuram",
+   "State": "Kerala",
+   "Population": "3,301,427"
+ },
+ {
+   "Ranking": 104,
+   "District": "Ernakulam",
+   "State": "Kerala",
+   "Population": "3,282,388"
+ },
+ {
+   "Ranking": 105,
+   "District": "Indore",
+   "State": "Madhya Pradesh",
+   "Population": "3,276,697"
+ },
+ {
+   "Ranking": 106,
+   "District": "Purnia",
+   "State": "Bihar",
+   "Population": "3,264,619"
+ },
+ {
+   "Ranking": 107,
+   "District": "Barabanki",
+   "State": "Uttar Pradesh",
+   "Population": "3,260,699"
+ },
+ {
+   "Ranking": 108,
+   "District": "Ballia",
+   "State": "Uttar Pradesh",
+   "Population": "3,239,774"
+ },
+ {
+   "Ranking": 109,
+   "District": "Pratapgarh",
+   "State": "Uttar Pradesh",
+   "Population": "3,209,141"
+ },
+ {
+   "Ranking": 110,
+   "District": "Thrissur",
+   "State": "Kerala",
+   "Population": "3,121,200"
+ },
+ {
+   "Ranking": 111,
+   "District": "Banaskantha",
+   "State": "Gujarat",
+   "Population": "3,120,506"
+ },
+ {
+   "Ranking": 112,
+   "District": "Unnao",
+   "State": "Uttar Pradesh",
+   "Population": "3,108,367"
+ },
+ {
+   "Ranking": 113,
+   "District": "Deoria",
+   "State": "Uttar Pradesh",
+   "Population": "3,100,946"
+ },
+ {
+   "Ranking": 114,
+   "District": "Kozhikode",
+   "State": "Kerala",
+   "Population": "3,086,293"
+ },
+ {
+   "Ranking": 115,
+   "District": "Mumbai City",
+   "State": "Maharashtra",
+   "Population": "3,085,411"
+ },
+ {
+   "Ranking": 116,
+   "District": "Tirunelveli",
+   "State": "Tamil Nadu",
+   "Population": "3,077,233"
+ },
+ {
+   "Ranking": 117,
+   "District": "Katihar",
+   "State": "Bihar",
+   "Population": "3,071,029"
+ },
+ {
+   "Ranking": 118,
+   "District": "Udaipur",
+   "State": "Rajasthan",
+   "Population": "3,068,420"
+ },
+ {
+   "Ranking": 119,
+   "District": "Madurai",
+   "State": "Tamil Nadu",
+   "Population": "3,038,252"
+ },
+ {
+   "Ranking": 120,
+   "District": "Bhagalpur",
+   "State": "Bihar",
+   "Population": "3,037,766"
+ },
+ {
+   "Ranking": 151,
+   "District": "Sikar",
+   "State": "Rajasthan",
+   "Population": "2,677,333"
+ },
+ {
+   "Ranking": 152,
+   "District": "Bilaspur",
+   "State": "Chhattisgarh",
+   "Population": "2,663,629"
+ },
+ {
+   "Ranking": 153,
+   "District": "Kollam",
+   "State": "Kerala",
+   "Population": "2,635,375"
+ },
+ {
+   "Ranking": 154,
+   "District": "Raigarh",
+   "State": "Maharashtra",
+   "Population": "2,634,200"
+ },
+ {
+   "Ranking": 155,
+   "District": "Fatehpur",
+   "State": "Uttar Pradesh",
+   "Population": "2,632,733"
+ },
+ {
+   "Ranking": 156,
+   "District": "Cuttack",
+   "State": "Orissa",
+   "Population": "2,624,470"
+ },
+ {
+   "Ranking": 157,
+   "District": "Cuddalore",
+   "State": "Tamil Nadu",
+   "Population": "2,605,914"
+ },
+ {
+   "Ranking": 158,
+   "District": "Barmer",
+   "State": "Rajasthan",
+   "Population": "2,603,751"
+ },
+ {
+   "Ranking": 159,
+   "District": "Buldana",
+   "State": "Maharashtra",
+   "Population": "2,586,258"
+ },
+ {
+   "Ranking": 160,
+   "District": "Bid",
+   "State": "Maharashtra",
+   "Population": "2,585,049"
+ },
+ {
+   "Ranking": 161,
+   "District": "Ajmer",
+   "State": "Rajasthan",
+   "Population": "2,583,052"
+ },
+ {
+   "Ranking": 162,
+   "District": "Gulbarga",
+   "State": "Karnataka",
+   "Population": "2,566,326"
+ },
+ {
+   "Ranking": 163,
+   "District": "Gopalganj",
+   "State": "Bihar",
+   "Population": "2,562,012"
+ },
+ {
+   "Ranking": 164,
+   "District": "Siddharth Nagar",
+   "State": "Uttar Pradesh",
+   "Population": "2,559,297"
+ },
+ {
+   "Ranking": 165,
+   "District": "Nizamabad",
+   "State": "Andhra Pradesh",
+   "Population": "2,551,335"
+ },
+ {
+   "Ranking": 166,
+   "District": "Bharatpur",
+   "State": "Rajasthan",
+   "Population": "2,548,462"
+ },
+ {
+   "Ranking": 167,
+   "District": "Mathura",
+   "State": "Uttar Pradesh",
+   "Population": "2,547,184"
+ },
+ {
+   "Ranking": 168,
+   "District": "West Delhi",
+   "State": "Delhi",
+   "Population": "2,543,243"
+ },
+ {
+   "Ranking": 169,
+   "District": "Aurangabad",
+   "State": "Bihar",
+   "Population": "2,540,073"
+ },
+ {
+   "Ranking": 170,
+   "District": "Kannur",
+   "State": "Kerala",
+   "Population": "2,523,003"
+ },
+ {
+   "Ranking": 171,
+   "District": "Mayurbhanj",
+   "State": "Orissa",
+   "Population": "2,519,738"
+ },
+ {
+   "Ranking": 172,
+   "District": "Firozabad",
+   "State": "Uttar Pradesh",
+   "Population": "2,498,156"
+ },
+ {
+   "Ranking": 173,
+   "District": "Mirzapur",
+   "State": "Uttar Pradesh",
+   "Population": "2,496,970"
+ },
+ {
+   "Ranking": 174,
+   "District": "Amritsar",
+   "State": "Punjab",
+   "Population": "2,490,656"
+ },
+ {
+   "Ranking": 175,
+   "District": "Tiruppur",
+   "State": "Tamil Nadu",
+   "Population": "2,479,052"
+ },
+ {
+   "Ranking": 176,
+   "District": "Faizabad",
+   "State": "Uttar Pradesh",
+   "Population": "2,470,996"
+ },
+ {
+   "Ranking": 177,
+   "District": "Tiruvannamalai",
+   "State": "Tamil Nadu",
+   "Population": "2,464,875"
+ },
+ {
+   "Ranking": 178,
+   "District": "Basti",
+   "State": "Uttar Pradesh",
+   "Population": "2,464,464"
+ },
+ {
+   "Ranking": 179,
+   "District": "Jabalpur",
+   "State": "Madhya Pradesh",
+   "Population": "2,463,289"
+ },
+ {
+   "Ranking": 180,
+   "District": "Latur",
+   "State": "Maharashtra",
+   "Population": "2,454,196"
+ },
+ {
+   "Ranking": 181,
+   "District": "Bellary",
+   "State": "Karnataka",
+   "Population": "2,452,595"
+ },
+ {
+   "Ranking": 182,
+   "District": "Giridih",
+   "State": "Jharkhand",
+   "Population": "2,445,474"
+ },
+ {
+   "Ranking": 183,
+   "District": "Sabarkantha",
+   "State": "Gujarat",
+   "Population": "2,428,589"
+ },
+ {
+   "Ranking": 184,
+   "District": "Bhilwara",
+   "State": "Rajasthan",
+   "Population": "2,408,523"
+ },
+ {
+   "Ranking": 185,
+   "District": "Thanjavur",
+   "State": "Tamil Nadu",
+   "Population": "2,405,890"
+ },
+ {
+   "Ranking": 186,
+   "District": "Ambedkar Nagar",
+   "State": "Uttar Pradesh",
+   "Population": "2,397,888"
+ },
+ {
+   "Ranking": 187,
+   "District": "PanchMahal",
+   "State": "Gujarat",
+   "Population": "2,390,776"
+ },
+ {
+   "Ranking": 188,
+   "District": "Sagar",
+   "State": "Madhya Pradesh",
+   "Population": "2,378,458"
+ },
+ {
+   "Ranking": 189,
+   "District": "Bhopal",
+   "State": "Madhya Pradesh",
+   "Population": "2,371,061"
+ },
+ {
+   "Ranking": 190,
+   "District": "Rewa",
+   "State": "Madhya Pradesh",
+   "Population": "2,365,106"
+ },
+ {
+   "Ranking": 191,
+   "District": "Bikaner",
+   "State": "Rajasthan",
+   "Population": "2,363,937"
+ },
+ {
+   "Ranking": 192,
+   "District": "Surguja",
+   "State": "Chhattisgarh",
+   "Population": "2,359,886"
+ },
+ {
+   "Ranking": 193,
+   "District": "Vizianagaram",
+   "State": "Andhra Pradesh",
+   "Population": "2,344,474"
+ },
+ {
+   "Ranking": 194,
+   "District": "Rampur",
+   "State": "Uttar Pradesh",
+   "Population": "2,335,819"
+ },
+ {
+   "Ranking": 195,
+   "District": "Baleshwar",
+   "State": "Orissa",
+   "Population": "2,320,529"
+ },
+ {
+   "Ranking": 196,
+   "District": "Kheda",
+   "State": "Gujarat",
+   "Population": "2,299,885"
+ },
+ {
+   "Ranking": 197,
+   "District": "Gurdaspur",
+   "State": "Punjab",
+   "Population": "2,298,323"
+ },
+ {
+   "Ranking": 198,
+   "District": "Purbi Singhbhum",
+   "State": "Jharkhand",
+   "Population": "2,293,919"
+ },
+ {
+   "Ranking": 199,
+   "District": "South West Delhi",
+   "State": "Delhi",
+   "Population": "2,292,958"
+ },
+ {
+   "Ranking": 200,
+   "District": "Erode",
+   "State": "Tamil Nadu",
+   "Population": "2,251,744"
+ },
+ {
+   "Ranking": 201,
+   "District": "Khordha",
+   "State": "Orissa",
+   "Population": "2,251,673"
+ },
+ {
+   "Ranking": 202,
+   "District": "North East Delhi",
+   "State": "Delhi",
+   "Population": "2,241,624"
+ },
+ {
+   "Ranking": 203,
+   "District": "Supaul",
+   "State": "Bihar",
+   "Population": "2,229,076"
+ },
+ {
+   "Ranking": 204,
+   "District": "Satna",
+   "State": "Madhya Pradesh",
+   "Population": "2,228,935"
+ },
+ {
+   "Ranking": 205,
+   "District": "Nawada",
+   "State": "Bihar",
+   "Population": "2,219,146"
+ },
+ {
+   "Ranking": 206,
+   "District": "Mau",
+   "State": "Uttar Pradesh",
+   "Population": "2,205,968"
+ },
+ {
+   "Ranking": 207,
+   "District": "Chandrapur",
+   "State": "Maharashtra",
+   "Population": "2,204,307"
+ },
+ {
+   "Ranking": 208,
+   "District": "Jalandhar",
+   "State": "Punjab",
+   "Population": "2,193,590"
+ },
+ {
+   "Ranking": 209,
+   "District": "Dhar",
+   "State": "Madhya Pradesh",
+   "Population": "2,185,793"
+ },
+ {
+   "Ranking": 210,
+   "District": "Bijapur",
+   "State": "Karnataka",
+   "Population": "2,177,331"
+ },
+ {
+   "Ranking": 211,
+   "District": "Jamnagar",
+   "State": "Gujarat",
+   "Population": "2,160,119"
+ },
+ {
+   "Ranking": 212,
+   "District": "Dindigul",
+   "State": "Tamil Nadu",
+   "Population": "2,159,775"
+ },
+ {
+   "Ranking": 213,
+   "District": "Balrampur",
+   "State": "Uttar Pradesh",
+   "Population": "2,148,665"
+ },
+ {
+   "Ranking": 214,
+   "District": "Jhunjhunun",
+   "State": "Rajasthan",
+   "Population": "2,137,045"
+ },
+ {
+   "Ranking": 215,
+   "District": "Alappuzha",
+   "State": "Kerala",
+   "Population": "2,127,789"
+ },
+ {
+   "Ranking": 216,
+   "District": "Dohad",
+   "State": "Gujarat",
+   "Population": "2,127,086"
+ },
+ {
+   "Ranking": 217,
+   "District": "Sundargarh",
+   "State": "Orissa",
+   "Population": "2,093,437"
+ },
+ {
+   "Ranking": 218,
+   "District": "Anand",
+   "State": "Gujarat",
+   "Population": "2,092,745"
+ },
+ {
+   "Ranking": 219,
+   "District": "Kachchh",
+   "State": "Gujarat",
+   "Population": "2,092,371"
+ },
+ {
+   "Ranking": 220,
+   "District": "Chhindwara",
+   "State": "Madhya Pradesh",
+   "Population": "2,090,922"
+ },
+ {
+   "Ranking": 221,
+   "District": "Dakshina Kannada",
+   "State": "Karnataka",
+   "Population": "2,089,649"
+ },
+ {
+   "Ranking": 222,
+   "District": "Bokaro",
+   "State": "Jharkhand",
+   "Population": "2,062,330"
+ },
+ {
+   "Ranking": 223,
+   "District": "Dhule",
+   "State": "Maharashtra",
+   "Population": "2,050,862"
+ },
+ {
+   "Ranking": 224,
+   "District": "Churu",
+   "State": "Rajasthan",
+   "Population": "2,039,547"
+ },
+ {
+   "Ranking": 225,
+   "District": "Pali",
+   "State": "Rajasthan",
+   "Population": "2,037,573"
+ },
+ {
+   "Ranking": 226,
+   "District": "Mahesana",
+   "State": "Gujarat",
+   "Population": "2,035,064"
+ },
+ {
+   "Ranking": 227,
+   "District": "Banka",
+   "State": "Bihar",
+   "Population": "2,034,763"
+ },
+ {
+   "Ranking": 228,
+   "District": "Gwalior",
+   "State": "Madhya Pradesh",
+   "Population": "2,032,036"
+ },
+ {
+   "Ranking": 229,
+   "District": "Pilibhit",
+   "State": "Uttar Pradesh",
+   "Population": "2,031,007"
+ },
+ {
+   "Ranking": 230,
+   "District": "Firozpur",
+   "State": "Punjab",
+   "Population": "2,029,074"
+ },
+ {
+   "Ranking": 231,
+   "District": "Madhepura",
+   "State": "Bihar",
+   "Population": "2,001,762"
+ },
+ {
+   "Ranking": 232,
+   "District": "Jhansi",
+   "State": "Uttar Pradesh",
+   "Population": "1,998,603"
+ },
+ {
+   "Ranking": 233,
+   "District": "Ujjain",
+   "State": "Madhya Pradesh",
+   "Population": "1,986,864"
+ },
+ {
+   "Ranking": 234,
+   "District": "Kottayam",
+   "State": "Kerala",
+   "Population": "1,974,551"
+ },
+ {
+   "Ranking": 235,
+   "District": "Ganganagar",
+   "State": "Rajasthan",
+   "Population": "1,969,168"
+ },
+ {
+   "Ranking": 236,
+   "District": "Morena",
+   "State": "Madhya Pradesh",
+   "Population": "1,965,970"
+ },
+ {
+   "Ranking": 237,
+   "District": "Jalna",
+   "State": "Maharashtra",
+   "Population": "1,959,046"
+ },
+ {
+   "Ranking": 238,
+   "District": "Chandauli",
+   "State": "Uttar Pradesh",
+   "Population": "1,952,756"
+ },
+ {
+   "Ranking": 239,
+   "District": "Kota",
+   "State": "Rajasthan",
+   "Population": "1,951,014"
+ },
+ {
+   "Ranking": 240,
+   "District": "Dhubri",
+   "State": "Assam",
+   "Population": "1,949,258"
+ },
+ {
+   "Ranking": 241,
+   "District": "Davanagere",
+   "State": "Karnataka",
+   "Population": "1,945,497"
+ },
+ {
+   "Ranking": 242,
+   "District": "Virudhunagar",
+   "State": "Tamil Nadu",
+   "Population": "1,942,288"
+ },
+ {
+   "Ranking": 243,
+   "District": "Palamu",
+   "State": "Jharkhand",
+   "Population": "1,939,869"
+ },
+ {
+   "Ranking": 244,
+   "District": "Raichur",
+   "State": "Karnataka",
+   "Population": "1,928,812"
+ },
+ {
+   "Ranking": 245,
+   "District": "Sonitpur",
+   "State": "Assam",
+   "Population": "1,924,110"
+ },
+ {
+   "Ranking": 246,
+   "District": "Saharsa",
+   "State": "Bihar",
+   "Population": "1,900,661"
+ },
+ {
+   "Ranking": 247,
+   "District": "Patiala",
+   "State": "Punjab",
+   "Population": "1,895,686"
+ },
+ {
+   "Ranking": 248,
+   "District": "Haridwar",
+   "State": "Uttarakhand",
+   "Population": "1,890,422"
+ },
+ {
+   "Ranking": 249,
+   "District": "Bagalkot",
+   "State": "Karnataka",
+   "Population": "1,889,752"
+ },
+ {
+   "Ranking": 250,
+   "District": "Farrukhabad",
+   "State": "Uttar Pradesh",
+   "Population": "1,885,204"
+ },
+ {
+   "Ranking": 251,
+   "District": "Krishnagiri",
+   "State": "Tamil Nadu",
+   "Population": "1,879,809"
+ },
+ {
+   "Ranking": 252,
+   "District": "West Nimar",
+   "State": "Madhya Pradesh",
+   "Population": "1,873,046"
+ },
+ {
+   "Ranking": 253,
+   "District": "Kanniyakumari",
+   "State": "Tamil Nadu",
+   "Population": "1,870,374"
+ },
+ {
+   "Ranking": 254,
+   "District": "Mainpuri",
+   "State": "Uttar Pradesh",
+   "Population": "1,868,529"
+ },
+ {
+   "Ranking": 255,
+   "District": "Sonbhadra",
+   "State": "Uttar Pradesh",
+   "Population": "1,862,559"
+ },
+ {
+   "Ranking": 256,
+   "District": "Dharwad",
+   "State": "Karnataka",
+   "Population": "1,847,023"
+ },
+ {
+   "Ranking": 257,
+   "District": "Darjiling",
+   "State": "West Bengal",
+   "Population": "1,846,823"
+ },
+ {
+   "Ranking": 258,
+   "District": "Jyotiba Phule Nagar",
+   "State": "Uttar Pradesh",
+   "Population": "1,840,221"
+ },
+ {
+   "Ranking": 259,
+   "District": "Parbhani",
+   "State": "Maharashtra",
+   "Population": "1,836,086"
+ },
+ {
+   "Ranking": 260,
+   "District": "Jalor",
+   "State": "Rajasthan",
+   "Population": "1,828,730"
+ },
+ {
+   "Ranking": 261,
+   "District": "Jajapur",
+   "State": "Orissa",
+   "Population": "1,827,192"
+ },
+ {
+   "Ranking": 262,
+   "District": "Akola",
+   "State": "Maharashtra",
+   "Population": "1,813,906"
+ },
+ {
+   "Ranking": 263,
+   "District": "Faridabad",
+   "State": "Haryana",
+   "Population": "1,809,733"
+ },
+ {
+   "Ranking": 264,
+   "District": "Mandya",
+   "State": "Karnataka",
+   "Population": "1,805,769"
+ },
+ {
+   "Ranking": 265,
+   "District": "Kendujhar",
+   "State": "Orissa",
+   "Population": "1,801,733"
+ },
+ {
+   "Ranking": 266,
+   "District": "Banda",
+   "State": "Uttar Pradesh",
+   "Population": "1,799,410"
+ },
+ {
+   "Ranking": 267,
+   "District": "Banswara",
+   "State": "Rajasthan",
+   "Population": "1,797,485"
+ },
+ {
+   "Ranking": 268,
+   "District": "Ramabai Nagar",
+   "State": "Uttar Pradesh",
+   "Population": "1,796,184"
+ },
+ {
+   "Ranking": 269,
+   "District": "Hassan",
+   "State": "Karnataka",
+   "Population": "1,776,421"
+ },
+ {
+   "Ranking": 270,
+   "District": "Hanumangarh",
+   "State": "Rajasthan",
+   "Population": "1,774,692"
+ },
+ {
+   "Ranking": 271,
+   "District": "Etah",
+   "State": "Uttar Pradesh",
+   "Population": "1,774,480"
+ },
+ {
+   "Ranking": 272,
+   "District": "Chhattarpur",
+   "State": "Madhya Pradesh",
+   "Population": "1,762,375"
+ },
+ {
+   "Ranking": 273,
+   "District": "Jamui",
+   "State": "Bihar",
+   "Population": "1,760,405"
+ },
+ {
+   "Ranking": 274,
+   "District": "Surendranagar",
+   "State": "Gujarat",
+   "Population": "1,756,268"
+ },
+ {
+   "Ranking": 275,
+   "District": "Shimoga",
+   "State": "Karnataka",
+   "Population": "1,752,753"
+ },
+ {
+   "Ranking": 276,
+   "District": "Thoothukkudi",
+   "State": "Tamil Nadu",
+   "Population": "1,750,176"
+ },
+ {
+   "Ranking": 277,
+   "District": "Hisar",
+   "State": "Haryana",
+   "Population": "1,743,931"
+ },
+ {
+   "Ranking": 278,
+   "District": "Cachar",
+   "State": "Assam",
+   "Population": "1,736,617"
+ },
+ {
+   "Ranking": 279,
+   "District": "Hazaribagh",
+   "State": "Jharkhand",
+   "Population": "1,734,495"
+ },
+ {
+   "Ranking": 280,
+   "District": "Namakkal",
+   "State": "Tamil Nadu",
+   "Population": "1,726,601"
+ },
+ {
+   "Ranking": 281,
+   "District": "Shivpuri",
+   "State": "Madhya Pradesh",
+   "Population": "1,726,050"
+ },
+ {
+   "Ranking": 282,
+   "District": "West Tripura",
+   "State": "Tripura",
+   "Population": "1,725,739"
+ },
+ {
+   "Ranking": 283,
+   "District": "Sant Kabir Nagar",
+   "State": "Uttar Pradesh",
+   "Population": "1,715,183"
+ },
+ {
+   "Ranking": 284,
+   "District": "East Delhi",
+   "State": "Delhi",
+   "Population": "1,709,346"
+ },
+ {
+   "Ranking": 285,
+   "District": "Buxar",
+   "State": "Bihar",
+   "Population": "1,706,352"
+ },
+ {
+   "Ranking": 286,
+   "District": "Valsad",
+   "State": "Gujarat",
+   "Population": "1,705,678"
+ },
+ {
+   "Ranking": 287,
+   "District": "Bidar",
+   "State": "Karnataka",
+   "Population": "1,703,300"
+ },
+ {
+   "Ranking": 288,
+   "District": "Bhind",
+   "State": "Madhya Pradesh",
+   "Population": "1,703,005"
+ },
+ {
+   "Ranking": 289,
+   "District": "Balaghat",
+   "State": "Madhya Pradesh",
+   "Population": "1,701,698"
+ },
+ {
+   "Ranking": 290,
+   "District": "Puri",
+   "State": "Orissa",
+   "Population": "1,698,730"
+ },
+ {
+   "Ranking": 291,
+   "District": "Dehradun",
+   "State": "Uttarakhand",
+   "Population": "1,696,694"
+ },
+ {
+   "Ranking": 292,
+   "District": "Barpeta",
+   "State": "Assam",
+   "Population": "1,693,622"
+ },
+ {
+   "Ranking": 293,
+   "District": "Kishanganj",
+   "State": "Bihar",
+   "Population": "1,690,400"
+ },
+ {
+   "Ranking": 294,
+   "District": "Jalaun",
+   "State": "Uttar Pradesh",
+   "Population": "1,689,974"
+ },
+ {
+   "Ranking": 295,
+   "District": "Dakshin Dinajpur",
+   "State": "West Bengal",
+   "Population": "1,676,276"
+ },
+ {
+   "Ranking": 296,
+   "District": "Khagaria",
+   "State": "Bihar",
+   "Population": "1,666,886"
+ },
+ {
+   "Ranking": 297,
+   "District": "Chitradurga",
+   "State": "Karnataka",
+   "Population": "1,659,456"
+ },
+ {
+   "Ranking": 298,
+   "District": "Osmanabad",
+   "State": "Maharashtra",
+   "Population": "1,657,576"
+ },
+ {
+   "Ranking": 299,
+   "District": "Kannauj",
+   "State": "Uttar Pradesh",
+   "Population": "1,656,616"
+ },
+ {
+   "Ranking": 300,
+   "District": "Sangrur",
+   "State": "Punjab",
+   "Population": "1,655,169"
+ },
+ {
+   "Ranking": 301,
+   "District": "Balangir",
+   "State": "Orissa",
+   "Population": "1,648,997"
+ },
+ {
+   "Ranking": 302,
+   "District": "Udham Singh Nagar",
+   "State": "Uttarakhand",
+   "Population": "1,648,902"
+ },
+ {
+   "Ranking": 303,
+   "District": "Nandurbar",
+   "State": "Maharashtra",
+   "Population": "1,648,295"
+ },
+ {
+   "Ranking": 304,
+   "District": "Gautam Buddha Nagar",
+   "State": "Uttar Pradesh",
+   "Population": "1,648,115"
+ },
+ {
+   "Ranking": 305,
+   "District": "Bhiwani",
+   "State": "Haryana",
+   "Population": "1,634,445"
+ },
+ {
+   "Ranking": 306,
+   "District": "Dausa",
+   "State": "Rajasthan",
+   "Population": "1,634,409"
+ },
+ {
+   "Ranking": 307,
+   "District": "Kaimur",
+   "State": "Bihar",
+   "Population": "1,626,384"
+ },
+ {
+   "Ranking": 308,
+   "District": "Janjgir Champa",
+   "State": "Chhattisgarh",
+   "Population": "1,619,707"
+ },
+ {
+   "Ranking": 309,
+   "District": "Pudukkottai",
+   "State": "Tamil Nadu",
+   "Population": "1,618,345"
+ },
+ {
+   "Ranking": 310,
+   "District": "Nagapattinam",
+   "State": "Tamil Nadu",
+   "Population": "1,616,450"
+ },
+ {
+   "Ranking": 311,
+   "District": "Ratnagiri",
+   "State": "Maharashtra",
+   "Population": "1,615,069"
+ },
+ {
+   "Ranking": 312,
+   "District": "Kaushambi",
+   "State": "Uttar Pradesh",
+   "Population": "1,599,596"
+ },
+ {
+   "Ranking": 313,
+   "District": "Haveri",
+   "State": "Karnataka",
+   "Population": "1,597,668"
+ },
+ {
+   "Ranking": 314,
+   "District": "Hoshiarpur",
+   "State": "Punjab",
+   "Population": "1,586,625"
+ },
+ {
+   "Ranking": 315,
+   "District": "Etawah",
+   "State": "Uttar Pradesh",
+   "Population": "1,581,810"
+ },
+ {
+   "Ranking": 316,
+   "District": "Sant Ravidas Nagar",
+   "State": "Uttar Pradesh",
+   "Population": "1,578,213"
+ },
+ {
+   "Ranking": 317,
+   "District": "Kalahandi",
+   "State": "Orissa",
+   "Population": "1,576,869"
+ },
+ {
+   "Ranking": 318,
+   "District": "Betul",
+   "State": "Madhya Pradesh",
+   "Population": "1,575,362"
+ },
+ {
+   "Ranking": 319,
+   "District": "Mahamaya Nagar",
+   "State": "Uttar Pradesh",
+   "Population": "1,564,708"
+ },
+ {
+   "Ranking": 320,
+   "District": "Dewas",
+   "State": "Madhya Pradesh",
+   "Population": "1,563,715"
+ },
+ {
+   "Ranking": 321,
+   "District": "Bharuch",
+   "State": "Gujarat",
+   "Population": "1,551,019"
+ },
+ {
+   "Ranking": 322,
+   "District": "Rajgarh",
+   "State": "Madhya Pradesh",
+   "Population": "1,545,814"
+ },
+ {
+   "Ranking": 323,
+   "District": "Chittaurgarh",
+   "State": "Rajasthan",
+   "Population": "1,544,338"
+ },
+ {
+   "Ranking": 324,
+   "District": "Rajnandgaon",
+   "State": "Chhattisgarh",
+   "Population": "1,537,133"
+ },
+ {
+   "Ranking": 325,
+   "District": "Kolar",
+   "State": "Karnataka",
+   "Population": "1,536,401"
+ },
+ {
+   "Ranking": 326,
+   "District": "Jammu",
+   "State": "Jammu and Kashmir",
+   "Population": "1,529,958"
+ },
+ {
+   "Ranking": 327,
+   "District": "Kamrup",
+   "State": "Assam",
+   "Population": "1,517,542"
+ },
+ {
+   "Ranking": 328,
+   "District": "Gurgaon",
+   "State": "Haryana",
+   "Population": "1,514,432"
+ },
+ {
+   "Ranking": 329,
+   "District": "Amreli",
+   "State": "Gujarat",
+   "Population": "1,514,190"
+ },
+ {
+   "Ranking": 330,
+   "District": "Shajapur",
+   "State": "Madhya Pradesh",
+   "Population": "1,512,681"
+ },
+ {
+   "Ranking": 331,
+   "District": "Kangra",
+   "State": "Himachal Pradesh",
+   "Population": "1,510,075"
+ },
+ {
+   "Ranking": 332,
+   "District": "Dharmapuri",
+   "State": "Tamil Nadu",
+   "Population": "1,506,843"
+ },
+ {
+   "Ranking": 333,
+   "District": "Bhadrak",
+   "State": "Orissa",
+   "Population": "1,506,337"
+ },
+ {
+   "Ranking": 334,
+   "District": "Karnal",
+   "State": "Haryana",
+   "Population": "1,505,324"
+ },
+ {
+   "Ranking": 335,
+   "District": "Pashchimi Singhbhum",
+   "State": "Jharkhand",
+   "Population": "1,502,338"
+ },
+ {
+   "Ranking": 336,
+   "District": "Raigarh",
+   "State": "Chhattisgarh",
+   "Population": "1,493,984"
+ },
+ {
+   "Ranking": 337,
+   "District": "Deoghar",
+   "State": "Jharkhand",
+   "Population": "1,492,073"
+ },
+ {
+   "Ranking": 338,
+   "District": "Bargarh",
+   "State": "Orissa",
+   "Population": "1,481,255"
+ },
+ {
+   "Ranking": 339,
+   "District": "Vidisha",
+   "State": "Madhya Pradesh",
+   "Population": "1,458,875"
+ },
+ {
+   "Ranking": 340,
+   "District": "Karauli",
+   "State": "Rajasthan",
+   "Population": "1,458,248"
+ },
+ {
+   "Ranking": 341,
+   "District": "Ratlam",
+   "State": "Madhya Pradesh",
+   "Population": "1,455,069"
+ },
+ {
+   "Ranking": 342,
+   "District": "Sonipat",
+   "State": "Haryana",
+   "Population": "1,450,001"
+ },
+ {
+   "Ranking": 343,
+   "District": "Tikamgarh",
+   "State": "Madhya Pradesh",
+   "Population": "1,445,166"
+ },
+ {
+   "Ranking": 344,
+   "District": "Kendrapara",
+   "State": "Orissa",
+   "Population": "1,440,361"
+ },
+ {
+   "Ranking": 345,
+   "District": "Uttara Kannada",
+   "State": "Karnataka",
+   "Population": "1,437,169"
+ },
+ {
+   "Ranking": 346,
+   "District": "Kanshiram Nagar",
+   "State": "Uttar Pradesh",
+   "Population": "1,436,719"
+ },
+ {
+   "Ranking": 347,
+   "District": "Tonk",
+   "State": "Rajasthan",
+   "Population": "1,421,326"
+ },
+ {
+   "Ranking": 348,
+   "District": "Bastar",
+   "State": "Chhattisgarh",
+   "Population": "1,413,199"
+ },
+ {
+   "Ranking": 349,
+   "District": "Jhalawar",
+   "State": "Rajasthan",
+   "Population": "1,411,129"
+ },
+ {
+   "Ranking": 350,
+   "District": "Gandhinagar",
+   "State": "Gujarat",
+   "Population": "1,391,753"
+ },
+ {
+   "Ranking": 351,
+   "District": "Koppal",
+   "State": "Karnataka",
+   "Population": "1,389,920"
+ },
+ {
+   "Ranking": 352,
+   "District": "Dungarpur",
+   "State": "Rajasthan",
+   "Population": "1,388,552"
+ },
+ {
+   "Ranking": 353,
+   "District": "Bathinda",
+   "State": "Punjab",
+   "Population": "1,388,525"
+ },
+ {
+   "Ranking": 354,
+   "District": "Barwani",
+   "State": "Madhya Pradesh",
+   "Population": "1,385,881"
+ },
+ {
+   "Ranking": 355,
+   "District": "Koraput",
+   "State": "Orissa",
+   "Population": "1,379,647"
+ },
+ {
+   "Ranking": 356,
+   "District": "Auraiya",
+   "State": "Uttar Pradesh",
+   "Population": "1,379,545"
+ },
+ {
+   "Ranking": 357,
+   "District": "Seoni",
+   "State": "Madhya Pradesh",
+   "Population": "1,379,131"
+ },
+ {
+   "Ranking": 358,
+   "District": "Munger",
+   "State": "Bihar",
+   "Population": "1,367,765"
+ },
+ {
+   "Ranking": 359,
+   "District": "Ramanathapuram",
+   "State": "Tamil Nadu",
+   "Population": "1,353,445"
+ },
+ {
+   "Ranking": 360,
+   "District": "Patan",
+   "State": "Gujarat",
+   "Population": "1,343,734"
+ },
+ {
+   "Ranking": 361,
+   "District": "Mandsaur",
+   "State": "Madhya Pradesh",
+   "Population": "1,340,411"
+ },
+ {
+   "Ranking": 362,
+   "District": "Sivaganga",
+   "State": "Tamil Nadu",
+   "Population": "1,339,101"
+ },
+ {
+   "Ranking": 363,
+   "District": "Sawai Madhopur",
+   "State": "Rajasthan",
+   "Population": "1,335,551"
+ },
+ {
+   "Ranking": 364,
+   "District": "Jind",
+   "State": "Haryana",
+   "Population": "1,334,152"
+ },
+ {
+   "Ranking": 365,
+   "District": "Raisen",
+   "State": "Madhya Pradesh",
+   "Population": "1,331,597"
+ },
+ {
+   "Ranking": 366,
+   "District": "Navsari",
+   "State": "Gujarat",
+   "Population": "1,329,672"
+ },
+ {
+   "Ranking": 367,
+   "District": "Tinsukia",
+   "State": "Assam",
+   "Population": "1,327,929"
+ },
+ {
+   "Ranking": 368,
+   "District": "Dibrugarh",
+   "State": "Assam",
+   "Population": "1,326,335"
+ },
+ {
+   "Ranking": 369,
+   "District": "Garhwa",
+   "State": "Jharkhand",
+   "Population": "1,322,784"
+ },
+ {
+   "Ranking": 370,
+   "District": "Gondiya",
+   "State": "Maharashtra",
+   "Population": "1,322,507"
+ },
+ {
+   "Ranking": 371,
+   "District": "Dumka",
+   "State": "Jharkhand",
+   "Population": "1,321,442"
+ },
+ {
+   "Ranking": 372,
+   "District": "Godda",
+   "State": "Jharkhand",
+   "Population": "1,313,551"
+ },
+ {
+   "Ranking": 373,
+   "District": "Sehore",
+   "State": "Madhya Pradesh",
+   "Population": "1,311,332"
+ },
+ {
+   "Ranking": 374,
+   "District": "East Nimar",
+   "State": "Madhya Pradesh",
+   "Population": "1,310,061"
+ },
+ {
+   "Ranking": 375,
+   "District": "Kasaragod",
+   "State": "Kerala",
+   "Population": "1,307,375"
+ },
+ {
+   "Ranking": 376,
+   "District": "Baghpat",
+   "State": "Uttar Pradesh",
+   "Population": "1,303,048"
+ },
+ {
+   "Ranking": 377,
+   "District": "Wardha",
+   "State": "Maharashtra",
+   "Population": "1,300,774"
+ },
+ {
+   "Ranking": 378,
+   "District": "Sirsa",
+   "State": "Haryana",
+   "Population": "1,295,189"
+ },
+ {
+   "Ranking": 379,
+   "District": "Katni",
+   "State": "Madhya Pradesh",
+   "Population": "1,292,042"
+ },
+ {
+   "Ranking": 380,
+   "District": "Anugul",
+   "State": "Orissa",
+   "Population": "1,273,821"
+ },
+ {
+   "Ranking": 381,
+   "District": "Thiruvarur",
+   "State": "Tamil Nadu",
+   "Population": "1,264,277"
+ },
+ {
+   "Ranking": 382,
+   "District": "Damoh",
+   "State": "Madhya Pradesh",
+   "Population": "1,264,219"
+ },
+ {
+   "Ranking": 383,
+   "District": "Chikkaballapura",
+   "State": "Karnataka",
+   "Population": "1,255,104"
+ },
+ {
+   "Ranking": 384,
+   "District": "Kamrup Metropolitan",
+   "State": "Assam",
+   "Population": "1,253,938"
+ },
+ {
+   "Ranking": 385,
+   "District": "Theni",
+   "State": "Tamil Nadu",
+   "Population": "1,245,899"
+ },
+ {
+   "Ranking": 386,
+   "District": "Guna",
+   "State": "Madhya Pradesh",
+   "Population": "1,241,519"
+ },
+ {
+   "Ranking": 387,
+   "District": "Hoshangabad",
+   "State": "Madhya Pradesh",
+   "Population": "1,241,350"
+ },
+ {
+   "Ranking": 388,
+   "District": "Srinagar",
+   "State": "Jammu and Kashmir",
+   "Population": "1,236,829"
+ },
+ {
+   "Ranking": 389,
+   "District": "Karimganj",
+   "State": "Assam",
+   "Population": "1,228,686"
+ },
+ {
+   "Ranking": 390,
+   "District": "Baran",
+   "State": "Rajasthan",
+   "Population": "1,222,755"
+ },
+ {
+   "Ranking": 391,
+   "District": "Lalitpur",
+   "State": "Uttar Pradesh",
+   "Population": "1,221,592"
+ },
+ {
+   "Ranking": 392,
+   "District": "Nabarangapur",
+   "State": "Orissa",
+   "Population": "1,220,946"
+ },
+ {
+   "Ranking": 393,
+   "District": "Yamunanagar",
+   "State": "Haryana",
+   "Population": "1,214,205"
+ },
+ {
+   "Ranking": 394,
+   "District": "Korba",
+   "State": "Chhattisgarh",
+   "Population": "1,206,640"
+ },
+ {
+   "Ranking": 395,
+   "District": "Dhaulpur",
+   "State": "Rajasthan",
+   "Population": "1,206,516"
+ },
+ {
+   "Ranking": 396,
+   "District": "Panipat",
+   "State": "Haryana",
+   "Population": "1,205,437"
+ },
+ {
+   "Ranking": 397,
+   "District": "Bhandara",
+   "State": "Maharashtra",
+   "Population": "1,200,334"
+ },
+ {
+   "Ranking": 398,
+   "District": "Pathanamthitta",
+   "State": "Kerala",
+   "Population": "1,197,412"
+ },
+ {
+   "Ranking": 399,
+   "District": "Washim",
+   "State": "Maharashtra",
+   "Population": "1,197,160"
+ },
+ {
+   "Ranking": 400,
+   "District": "Dhenkanal",
+   "State": "Orissa",
+   "Population": "1,192,811"
+ },
+ {
+   "Ranking": 401,
+   "District": "Singrauli",
+   "State": "Madhya Pradesh",
+   "Population": "1,178,273"
+ },
+ {
+   "Ranking": 402,
+   "District": "Udupi",
+   "State": "Karnataka",
+   "Population": "1,177,361"
+ },
+ {
+   "Ranking": 403,
+   "District": "Hingoli",
+   "State": "Maharashtra",
+   "Population": "1,177,345"
+ },
+ {
+   "Ranking": 404,
+   "District": "Yadgir",
+   "State": "Karnataka",
+   "Population": "1,174,271"
+ },
+ {
+   "Ranking": 405,
+   "District": "Rajsamand",
+   "State": "Rajasthan",
+   "Population": "1,156,597"
+ },
+ {
+   "Ranking": 406,
+   "District": "Sivasagar",
+   "State": "Assam",
+   "Population": "1,151,050"
+ },
+ {
+   "Ranking": 407,
+   "District": "Sahibganj",
+   "State": "Jharkhand",
+   "Population": "1,150,567"
+ },
+ {
+   "Ranking": 408,
+   "District": "Chikmagalur",
+   "State": "Karnataka",
+   "Population": "1,137,961"
+ },
+ {
+   "Ranking": 409,
+   "District": "Jagatsinghapur",
+   "State": "Orissa",
+   "Population": "1,136,971"
+ },
+ {
+   "Ranking": 410,
+   "District": "Ambala",
+   "State": "Haryana",
+   "Population": "1,128,350"
+ },
+ {
+   "Ranking": 411,
+   "District": "Sidhi",
+   "State": "Madhya Pradesh",
+   "Population": "1,127,033"
+ },
+ {
+   "Ranking": 412,
+   "District": "Jehanabad",
+   "State": "Bihar",
+   "Population": "1,125,313"
+ },
+ {
+   "Ranking": 413,
+   "District": "Tarn Taran",
+   "State": "Punjab",
+   "Population": "1,119,627"
+ },
+ {
+   "Ranking": 414,
+   "District": "Shrawasti",
+   "State": "Uttar Pradesh",
+   "Population": "1,117,361"
+ },
+ {
+   "Ranking": 415,
+   "District": "Bundi",
+   "State": "Rajasthan",
+   "Population": "1,110,906"
+ },
+ {
+   "Ranking": 416,
+   "District": "Idukki",
+   "State": "Kerala",
+   "Population": "1,108,974"
+ },
+ {
+   "Ranking": 417,
+   "District": "Hamirpur",
+   "State": "Uttar Pradesh",
+   "Population": "1,104,285"
+ },
+ {
+   "Ranking": 418,
+   "District": "Jorhat",
+   "State": "Assam",
+   "Population": "1,092,256"
+ },
+ {
+   "Ranking": 419,
+   "District": "Narsimhapur",
+   "State": "Madhya Pradesh",
+   "Population": "1,091,854"
+ },
+ {
+   "Ranking": 420,
+   "District": "Mewat",
+   "State": "Haryana",
+   "Population": "1,089,263"
+ },
+ {
+   "Ranking": 421,
+   "District": "Ramanagara",
+   "State": "Karnataka",
+   "Population": "1,082,636"
+ },
+ {
+   "Ranking": 422,
+   "District": "Anantnag",
+   "State": "Jammu and Kashmir",
+   "Population": "1,078,692"
+ },
+ {
+   "Ranking": 423,
+   "District": "Kaithal",
+   "State": "Haryana",
+   "Population": "1,074,304"
+ },
+ {
+   "Ranking": 424,
+   "District": "Gadchiroli",
+   "State": "Maharashtra",
+   "Population": "1,072,942"
+ },
+ {
+   "Ranking": 425,
+   "District": "Golaghat",
+   "State": "Assam",
+   "Population": "1,066,888"
+ },
+ {
+   "Ranking": 426,
+   "District": "Shahdol",
+   "State": "Madhya Pradesh",
+   "Population": "1,066,063"
+ },
+ {
+   "Ranking": 427,
+   "District": "Saraikela Kharsawan",
+   "State": "Jharkhand",
+   "Population": "1,065,056"
+ },
+ {
+   "Ranking": 428,
+   "District": "Gadag",
+   "State": "Karnataka",
+   "Population": "1,064,570"
+ },
+ {
+   "Ranking": 429,
+   "District": "Karur",
+   "State": "Tamil Nadu",
+   "Population": "1,064,493"
+ },
+ {
+   "Ranking": 430,
+   "District": "Rohtak",
+   "State": "Haryana",
+   "Population": "1,061,204"
+ },
+ {
+   "Ranking": 431,
+   "District": "Chandigarh",
+   "State": "Chandigarh",
+   "Population": "1,055,450"
+ },
+ {
+   "Ranking": 432,
+   "District": "Mandla",
+   "State": "Madhya Pradesh",
+   "Population": "1,054,905"
+ },
+ {
+   "Ranking": 433,
+   "District": "Chatra",
+   "State": "Jharkhand",
+   "Population": "1,042,886"
+ },
+ {
+   "Ranking": 434,
+   "District": "Palwal",
+   "State": "Haryana",
+   "Population": "1,042,708"
+ },
+ {
+   "Ranking": 435,
+   "District": "Lakhimpur",
+   "State": "Assam",
+   "Population": "1,042,137"
+ },
+ {
+   "Ranking": 436,
+   "District": "Sambalpur",
+   "State": "Orissa",
+   "Population": "1,041,099"
+ },
+ {
+   "Ranking": 437,
+   "District": "Sirohi",
+   "State": "Rajasthan",
+   "Population": "1,036,346"
+ },
+ {
+   "Ranking": 438,
+   "District": "Mahasamund",
+   "State": "Chhattisgarh",
+   "Population": "1,032,754"
+ },
+ {
+   "Ranking": 439,
+   "District": "Gumla",
+   "State": "Jharkhand",
+   "Population": "1,025,213"
+ },
+ {
+   "Ranking": 440,
+   "District": "Jhabua",
+   "State": "Madhya Pradesh",
+   "Population": "1,025,048"
+ },
+ {
+   "Ranking": 441,
+   "District": "Chamarajanagar",
+   "State": "Karnataka",
+   "Population": "1,020,791"
+ },
+ {
+   "Ranking": 442,
+   "District": "Panna",
+   "State": "Madhya Pradesh",
+   "Population": "1,016,520"
+ },
+ {
+   "Ranking": 443,
+   "District": "Goalpara",
+   "State": "Assam",
+   "Population": "1,008,183"
+ },
+ {
+   "Ranking": 444,
+   "District": "Baramula",
+   "State": "Jammu and Kashmir",
+   "Population": "1,008,039"
+ },
+ {
+   "Ranking": 445,
+   "District": "Lakhisarai",
+   "State": "Bihar",
+   "Population": "1,000,912"
+ },
+ {
+   "Ranking": 446,
+   "District": "Mandi",
+   "State": "Himachal Pradesh",
+   "Population": "999,777"
+ },
+ {
+   "Ranking": 447,
+   "District": "Moga",
+   "State": "Punjab",
+   "Population": "995,746"
+ },
+ {
+   "Ranking": 448,
+   "District": "Mohali",
+   "State": "Punjab",
+   "Population": "994,628"
+ },
+ {
+   "Ranking": 449,
+   "District": "Chitrakoot",
+   "State": "Uttar Pradesh",
+   "Population": "991,730"
+ },
+ {
+   "Ranking": 450,
+   "District": "Bangalore Rural",
+   "State": "Karnataka",
+   "Population": "990,923"
+ },
+ {
+   "Ranking": 451,
+   "District": "Rayagada",
+   "State": "Orissa",
+   "Population": "967,911"
+ },
+ {
+   "Ranking": 452,
+   "District": "Kurukshetra",
+   "State": "Haryana",
+   "Population": "964,655"
+ },
+ {
+   "Ranking": 453,
+   "District": "Nayagarh",
+   "State": "Orissa",
+   "Population": "962,789"
+ },
+ {
+   "Ranking": 454,
+   "District": "Jhajjar",
+   "State": "Haryana",
+   "Population": "958,405"
+ },
+ {
+   "Ranking": 455,
+   "District": "Morigaon",
+   "State": "Assam",
+   "Population": "957,423"
+ },
+ {
+   "Ranking": 456,
+   "District": "Karbi Anglong",
+   "State": "Assam",
+   "Population": "956,313"
+ },
+ {
+   "Ranking": 457,
+   "District": "Nainital",
+   "State": "Uttarakhand",
+   "Population": "954,605"
+ },
+ {
+   "Ranking": 458,
+   "District": "Puducherry",
+   "State": "Puducherry",
+   "Population": "950,289"
+ },
+ {
+   "Ranking": 459,
+   "District": "Baksa",
+   "State": "Assam",
+   "Population": "950,075"
+ },
+ {
+   "Ranking": 460,
+   "District": "Ramgarh",
+   "State": "Jharkhand",
+   "Population": "949,443"
+ },
+ {
+   "Ranking": 461,
+   "District": "Fatehabad",
+   "State": "Haryana",
+   "Population": "942,011"
+ },
+ {
+   "Ranking": 462,
+   "District": "Darrang",
+   "State": "Assam",
+   "Population": "928,500"
+ },
+ {
+   "Ranking": 463,
+   "District": "Mahendragarh",
+   "State": "Haryana",
+   "Population": "922,088"
+ },
+ {
+   "Ranking": 464,
+   "District": "Muktsar",
+   "State": "Punjab",
+   "Population": "901,896"
+ },
+ {
+   "Ranking": 465,
+   "District": "Pakur",
+   "State": "Jharkhand",
+   "Population": "900,422"
+ },
+ {
+   "Ranking": 466,
+   "District": "Rewari",
+   "State": "Haryana",
+   "Population": "900,332"
+ },
+ {
+   "Ranking": 467,
+   "District": "North Delhi",
+   "State": "Delhi",
+   "Population": "887,978"
+ },
+ {
+   "Ranking": 468,
+   "District": "Kokrajhar",
+   "State": "Assam",
+   "Population": "887,142"
+ },
+ {
+   "Ranking": 469,
+   "District": "South Tripura",
+   "State": "Tripura",
+   "Population": "876,001"
+ },
+ {
+   "Ranking": 470,
+   "District": "Mahoba",
+   "State": "Uttar Pradesh",
+   "Population": "875,958"
+ },
+ {
+   "Ranking": 471,
+   "District": "Kupwara",
+   "State": "Jammu and Kashmir",
+   "Population": "870,354"
+ },
+ {
+   "Ranking": 472,
+   "District": "Pratapgarh",
+   "State": "Rajasthan",
+   "Population": "867,848"
+ },
+ {
+   "Ranking": 473,
+   "District": "Jashpur",
+   "State": "Chhattisgarh",
+   "Population": "851,669"
+ },
+ {
+   "Ranking": 474,
+   "District": "Sindhudurg",
+   "State": "Maharashtra",
+   "Population": "849,651"
+ },
+ {
+   "Ranking": 475,
+   "District": "Ashoknagar",
+   "State": "Madhya Pradesh",
+   "Population": "845,071"
+ },
+ {
+   "Ranking": 476,
+   "District": "Udalguri",
+   "State": "Assam",
+   "Population": "831,668"
+ },
+ {
+   "Ranking": 477,
+   "District": "Neemuch",
+   "State": "Madhya Pradesh",
+   "Population": "826,067"
+ },
+ {
+   "Ranking": 478,
+   "District": "East Khasi Hills",
+   "State": "Meghalaya",
+   "Population": "825,922"
+ },
+ {
+   "Ranking": 479,
+   "District": "Kabirdham",
+   "State": "Chhattisgarh",
+   "Population": "822,526"
+ },
+ {
+   "Ranking": 480,
+   "District": "North Goa",
+   "State": "Goa",
+   "Population": "818,008"
+ },
+ {
+   "Ranking": 481,
+   "District": "Wayanad",
+   "State": "Kerala",
+   "Population": "817,420"
+ },
+ {
+   "Ranking": 482,
+   "District": "Kapurthala",
+   "State": "Punjab",
+   "Population": "815,168"
+ },
+ {
+   "Ranking": 483,
+   "District": "Shimla",
+   "State": "Himachal Pradesh",
+   "Population": "814,010"
+ },
+ {
+   "Ranking": 484,
+   "District": "Tapi",
+   "State": "Gujarat",
+   "Population": "807,022"
+ },
+ {
+   "Ranking": 485,
+   "District": "Dhamtari",
+   "State": "Chhattisgarh",
+   "Population": "799,781"
+ },
+ {
+   "Ranking": 486,
+   "District": "Jamtara",
+   "State": "Jharkhand",
+   "Population": "791,042"
+ },
+ {
+   "Ranking": 487,
+   "District": "Datia",
+   "State": "Madhya Pradesh",
+   "Population": "786,754"
+ },
+ {
+   "Ranking": 488,
+   "District": "Nalbari",
+   "State": "Assam",
+   "Population": "771,639"
+ },
+ {
+   "Ranking": 489,
+   "District": "Mansa",
+   "State": "Punjab",
+   "Population": "769,751"
+ },
+ {
+   "Ranking": 490,
+   "District": "Burhanpur",
+   "State": "Madhya Pradesh",
+   "Population": "757,847"
+ },
+ {
+   "Ranking": 491,
+   "District": "Ariyalur",
+   "State": "Tamil Nadu",
+   "Population": "754,894"
+ },
+ {
+   "Ranking": 492,
+   "District": "Badgam",
+   "State": "Jammu and Kashmir",
+   "Population": "753,745"
+ },
+ {
+   "Ranking": 493,
+   "District": "Anuppur",
+   "State": "Madhya Pradesh",
+   "Population": "749,237"
+ },
+ {
+   "Ranking": 494,
+   "District": "Kanker",
+   "State": "Chhattisgarh",
+   "Population": "748,941"
+ },
+ {
+   "Ranking": 495,
+   "District": "Bongaigaon",
+   "State": "Assam",
+   "Population": "738,804"
+ },
+ {
+   "Ranking": 496,
+   "District": "The Nilgiris",
+   "State": "Tamil Nadu",
+   "Population": "735,394"
+ },
+ {
+   "Ranking": 497,
+   "District": "Kandhamal",
+   "State": "Orissa",
+   "Population": "733,110"
+ },
+ {
+   "Ranking": 498,
+   "District": "Alirajpur",
+   "State": "Madhya Pradesh",
+   "Population": "728,999"
+ },
+ {
+   "Ranking": 499,
+   "District": "Latehar",
+   "State": "Jharkhand",
+   "Population": "726,978"
+ },
+ {
+   "Ranking": 500,
+   "District": "Kodarma",
+   "State": "Jharkhand",
+   "Population": "716,259"
+ },
+ {
+   "Ranking": 501,
+   "District": "Dindori",
+   "State": "Madhya Pradesh",
+   "Population": "704,524"
+ },
+ {
+   "Ranking": 502,
+   "District": "Arwal",
+   "State": "Bihar",
+   "Population": "700,843"
+ },
+ {
+   "Ranking": 503,
+   "District": "North Tripura",
+   "State": "Tripura",
+   "Population": "693,947"
+ },
+ {
+   "Ranking": 504,
+   "District": "Sheopur",
+   "State": "Madhya Pradesh",
+   "Population": "687,861"
+ },
+ {
+   "Ranking": 505,
+   "District": "Pauri Garhwal",
+   "State": "Uttarakhand",
+   "Population": "687,271"
+ },
+ {
+   "Ranking": 506,
+   "District": "Dhemaji",
+   "State": "Assam",
+   "Population": "686,133"
+ },
+ {
+   "Ranking": 507,
+   "District": "Rupnagar",
+   "State": "Punjab",
+   "Population": "684,627"
+ },
+ {
+   "Ranking": 508,
+   "District": "Jaisalmer",
+   "State": "Rajasthan",
+   "Population": "669,919"
+ },
+ {
+   "Ranking": 509,
+   "District": "Hailakandi",
+   "State": "Assam",
+   "Population": "659,296"
+ },
+ {
+   "Ranking": 510,
+   "District": "Korea",
+   "State": "Chhattisgarh",
+   "Population": "658,917"
+ },
+ {
+   "Ranking": 511,
+   "District": "Sheohar",
+   "State": "Bihar",
+   "Population": "656,246"
+ },
+ {
+   "Ranking": 512,
+   "District": "Umaria",
+   "State": "Madhya Pradesh",
+   "Population": "644,758"
+ },
+ {
+   "Ranking": 513,
+   "District": "West Garo Hills",
+   "State": "Meghalaya",
+   "Population": "643,291"
+ },
+ {
+   "Ranking": 514,
+   "District": "Rajouri",
+   "State": "Jammu and Kashmir",
+   "Population": "642,415"
+ },
+ {
+   "Ranking": 515,
+   "District": "South Goa",
+   "State": "Goa",
+   "Population": "640,537"
+ },
+ {
+   "Ranking": 516,
+   "District": "Sheikhpura",
+   "State": "Bihar",
+   "Population": "636,342"
+ },
+ {
+   "Ranking": 517,
+   "District": "Almora",
+   "State": "Uttarakhand",
+   "Population": "622,506"
+ },
+ {
+   "Ranking": 518,
+   "District": "Tehri Garhwal",
+   "State": "Uttarakhand",
+   "Population": "618,931"
+ },
+ {
+   "Ranking": 519,
+   "District": "Faridkot",
+   "State": "Punjab",
+   "Population": "617,508"
+ },
+ {
+   "Ranking": 520,
+   "District": "Kathua",
+   "State": "Jammu and Kashmir",
+   "Population": "616,435"
+ },
+ {
+   "Ranking": 521,
+   "District": "Malkangiri",
+   "State": "Orissa",
+   "Population": "613,192"
+ },
+ {
+   "Ranking": 522,
+   "District": "Shahid Bhagat Singh Nagar",
+   "State": "Punjab",
+   "Population": "612,310"
+ },
+ {
+   "Ranking": 523,
+   "District": "Nuapada",
+   "State": "Orissa",
+   "Population": "610,382"
+ },
+ {
+   "Ranking": 524,
+   "District": "Subarnapur",
+   "State": "Orissa",
+   "Population": "610,183"
+ },
+ {
+   "Ranking": 525,
+   "District": "Fatehgarh Sahib",
+   "State": "Punjab",
+   "Population": "600,163"
+ },
+ {
+   "Ranking": 526,
+   "District": "Simdega",
+   "State": "Jharkhand",
+   "Population": "599,578"
+ },
+ {
+   "Ranking": 527,
+   "District": "Barnala",
+   "State": "Punjab",
+   "Population": "595,527"
+ },
+ {
+   "Ranking": 528,
+   "District": "Narmada",
+   "State": "Gujarat",
+   "Population": "590,297"
+ },
+ {
+   "Ranking": 529,
+   "District": "Porbandar",
+   "State": "Gujarat",
+   "Population": "585,449"
+ },
+ {
+   "Ranking": 530,
+   "District": "Central Delhi",
+   "State": "Delhi",
+   "Population": "582,320"
+ },
+ {
+   "Ranking": 531,
+   "District": "Solan",
+   "State": "Himachal Pradesh",
+   "Population": "580,320"
+ },
+ {
+   "Ranking": 532,
+   "District": "Jharsuguda",
+   "State": "Orissa",
+   "Population": "579,505"
+ },
+ {
+   "Ranking": 533,
+   "District": "Gajapati",
+   "State": "Orissa",
+   "Population": "577,817"
+ },
+ {
+   "Ranking": 534,
+   "District": "Harda",
+   "State": "Madhya Pradesh",
+   "Population": "570,465"
+ },
+ {
+   "Ranking": 535,
+   "District": "Perambalur",
+   "State": "Tamil Nadu",
+   "Population": "565,223"
+ },
+ {
+   "Ranking": 536,
+   "District": "Panchkula",
+   "State": "Haryana",
+   "Population": "561,293"
+ },
+ {
+   "Ranking": 537,
+   "District": "Pulwama",
+   "State": "Jammu and Kashmir",
+   "Population": "560,440"
+ },
+ {
+   "Ranking": 538,
+   "District": "Udhampur",
+   "State": "Jammu and Kashmir",
+   "Population": "554,985"
+ },
+ {
+   "Ranking": 539,
+   "District": "Kodagu",
+   "State": "Karnataka",
+   "Population": "554,519"
+ },
+ {
+   "Ranking": 540,
+   "District": "Dantewada",
+   "State": "Chhattisgarh",
+   "Population": "533,638"
+ },
+ {
+   "Ranking": 541,
+   "District": "Khunti",
+   "State": "Jharkhand",
+   "Population": "531,885"
+ },
+ {
+   "Ranking": 542,
+   "District": "Sirmaur",
+   "State": "Himachal Pradesh",
+   "Population": "529,855"
+ },
+ {
+   "Ranking": 543,
+   "District": "Una",
+   "State": "Himachal Pradesh",
+   "Population": "521,173"
+ },
+ {
+   "Ranking": 544,
+   "District": "Chamba",
+   "State": "Himachal Pradesh",
+   "Population": "519,080"
+ },
+ {
+   "Ranking": 545,
+   "District": "Imphal West",
+   "State": "Manipur",
+   "Population": "517,992"
+ },
+ {
+   "Ranking": 546,
+   "District": "Pithoragarh",
+   "State": "Uttarakhand",
+   "Population": "483,439"
+ },
+ {
+   "Ranking": 547,
+   "District": "Chirang",
+   "State": "Assam",
+   "Population": "482,162"
+ },
+ {
+   "Ranking": 548,
+   "District": "Senapati",
+   "State": "Manipur",
+   "Population": "479,148"
+ },
+ {
+   "Ranking": 549,
+   "District": "Punch",
+   "State": "Jammu and Kashmir",
+   "Population": "476,835"
+ },
+ {
+   "Ranking": 550,
+   "District": "Lohardaga",
+   "State": "Jharkhand",
+   "Population": "461,790"
+ },
+ {
+   "Ranking": 551,
+   "District": "Imphal East",
+   "State": "Manipur",
+   "Population": "456,113"
+ },
+ {
+   "Ranking": 552,
+   "District": "Hamirpur",
+   "State": "Himachal Pradesh",
+   "Population": "454,768"
+ },
+ {
+   "Ranking": 553,
+   "District": "Baudh",
+   "State": "Orissa",
+   "Population": "441,162"
+ },
+ {
+   "Ranking": 554,
+   "District": "Kullu",
+   "State": "Himachal Pradesh",
+   "Population": "437,903"
+ },
+ {
+   "Ranking": 555,
+   "District": "Kulgam",
+   "State": "Jammu and Kashmir",
+   "Population": "424,483"
+ },
+ {
+   "Ranking": 556,
+   "District": "Thoubal",
+   "State": "Manipur",
+   "Population": "422,168"
+ },
+ {
+   "Ranking": 557,
+   "District": "Doda",
+   "State": "Jammu and Kashmir",
+   "Population": "409,936"
+ },
+ {
+   "Ranking": 558,
+   "District": "Aizawl",
+   "State": "Mizoram",
+   "Population": "400,309"
+ },
+ {
+   "Ranking": 559,
+   "District": "Jaintia Hills",
+   "State": "Meghalaya",
+   "Population": "395,124"
+ },
+ {
+   "Ranking": 560,
+   "District": "Bandipora",
+   "State": "Jammu and Kashmir",
+   "Population": "392,232"
+ },
+ {
+   "Ranking": 561,
+   "District": "Chamoli",
+   "State": "Uttarakhand",
+   "Population": "391,605"
+ },
+ {
+   "Ranking": 562,
+   "District": "West Khasi Hills",
+   "State": "Meghalaya",
+   "Population": "383,461"
+ },
+ {
+   "Ranking": 563,
+   "District": "Bilaspur",
+   "State": "Himachal Pradesh",
+   "Population": "381,956"
+ },
+ {
+   "Ranking": 564,
+   "District": "Dimapur",
+   "State": "Nagaland",
+   "Population": "378,811"
+ },
+ {
+   "Ranking": 565,
+   "District": "Dhalai",
+   "State": "Tripura",
+   "Population": "378,230"
+ },
+ {
+   "Ranking": 566,
+   "District": "Dadra and Nagar Haveli",
+   "State": "Dadra and Nagar Haveli",
+   "Population": "343,709"
+ },
+ {
+   "Ranking": 567,
+   "District": "Uttarkashi",
+   "State": "Uttarakhand",
+   "Population": "330,086"
+ },
+ {
+   "Ranking": 568,
+   "District": "Samba",
+   "State": "Jammu and Kashmir",
+   "Population": "318,898"
+ },
+ {
+   "Ranking": 569,
+   "District": "East Garo Hills",
+   "State": "Meghalaya",
+   "Population": "317,917"
+ },
+ {
+   "Ranking": 570,
+   "District": "Reasi",
+   "State": "Jammu and Kashmir",
+   "Population": "314,667"
+ },
+ {
+   "Ranking": 571,
+   "District": "Debagarh",
+   "State": "Orissa",
+   "Population": "312,520"
+ },
+ {
+   "Ranking": 572,
+   "District": "Ganderbal",
+   "State": "Jammu and Kashmir",
+   "Population": "297,446"
+ },
+ {
+   "Ranking": 573,
+   "District": "Ramban",
+   "State": "Jammu and Kashmir",
+   "Population": "283,713"
+ },
+ {
+   "Ranking": 574,
+   "District": "East Sikkim",
+   "State": "Sikkim",
+   "Population": "283,583"
+ },
+ {
+   "Ranking": 575,
+   "District": "Churachandpur",
+   "State": "Manipur",
+   "Population": "274,143"
+ },
+ {
+   "Ranking": 576,
+   "District": "Kohima",
+   "State": "Nagaland",
+   "Population": "267,988"
+ },
+ {
+   "Ranking": 577,
+   "District": "Shupiyan",
+   "State": "Jammu and Kashmir",
+   "Population": "266,215"
+ },
+ {
+   "Ranking": 578,
+   "District": "Bageshwar",
+   "State": "Uttarakhand",
+   "Population": "259,898"
+ },
+ {
+   "Ranking": 579,
+   "District": "Champawat",
+   "State": "Uttarakhand",
+   "Population": "259,648"
+ },
+ {
+   "Ranking": 580,
+   "District": "Ri Bhoi",
+   "State": "Meghalaya",
+   "Population": "258,840"
+ },
+ {
+   "Ranking": 581,
+   "District": "Bijapur",
+   "State": "Chhattisgarh",
+   "Population": "255,230"
+ },
+ {
+   "Ranking": 582,
+   "District": "Mon",
+   "State": "Nagaland",
+   "Population": "250,260"
+ },
+ {
+   "Ranking": 583,
+   "District": "Rudraprayag",
+   "State": "Uttarakhand",
+   "Population": "242,285"
+ },
+ {
+   "Ranking": 584,
+   "District": "South Andaman",
+   "State": "Andaman and Nicobar Islands",
+   "Population": "238,142"
+ },
+ {
+   "Ranking": 585,
+   "District": "Bishnupur",
+   "State": "Manipur",
+   "Population": "237,399"
+ },
+ {
+   "Ranking": 586,
+   "District": "Kishtwar",
+   "State": "Jammu and Kashmir",
+   "Population": "230,696"
+ },
+ {
+   "Ranking": 587,
+   "District": "The Dangs",
+   "State": "Gujarat",
+   "Population": "228,291"
+ },
+ {
+   "Ranking": 588,
+   "District": "Dima Hasao",
+   "State": "Assam",
+   "Population": "214,102"
+ },
+ {
+   "Ranking": 589,
+   "District": "Karaikal",
+   "State": "Puducherry",
+   "Population": "200,222"
+ },
+ {
+   "Ranking": 590,
+   "District": "Tuensang",
+   "State": "Nagaland",
+   "Population": "196,596"
+ },
+ {
+   "Ranking": 591,
+   "District": "Mokokchung",
+   "State": "Nagaland",
+   "Population": "194,622"
+ },
+ {
+   "Ranking": 592,
+   "District": "Daman",
+   "State": "Daman and Diu",
+   "Population": "191,173"
+ },
+ {
+   "Ranking": 593,
+   "District": "Ukhrul",
+   "State": "Manipur",
+   "Population": "183,998"
+ },
+ {
+   "Ranking": 594,
+   "District": "Papumpare",
+   "State": "Arunachal Pradesh",
+   "Population": "176,573"
+ },
+ {
+   "Ranking": 595,
+   "District": "Wokha",
+   "State": "Nagaland",
+   "Population": "166,343"
+ },
+ {
+   "Ranking": 596,
+   "District": "Phek",
+   "State": "Nagaland",
+   "Population": "163,418"
+ },
+ {
+   "Ranking": 597,
+   "District": "Lunglei",
+   "State": "Mizoram",
+   "Population": "161,428"
+ },
+ {
+   "Ranking": 598,
+   "District": "Changlang",
+   "State": "Arunachal Pradesh",
+   "Population": "148,226"
+ },
+ {
+   "Ranking": 599,
+   "District": "South Sikkim",
+   "State": "Sikkim",
+   "Population": "146,850"
+ },
+ {
+   "Ranking": 600,
+   "District": "Lohit",
+   "State": "Arunachal Pradesh",
+   "Population": "145,726"
+ },
+ {
+   "Ranking": 601,
+   "District": "Chandel",
+   "State": "Manipur",
+   "Population": "144,182"
+ },
+ {
+   "Ranking": 602,
+   "District": "South Garo Hills",
+   "State": "Meghalaya",
+   "Population": "142,334"
+ },
+ {
+   "Ranking": 603,
+   "District": "New Delhi",
+   "State": "Delhi",
+   "Population": "142,004"
+ },
+ {
+   "Ranking": 604,
+   "District": "Kargil",
+   "State": "Jammu and Kashmir",
+   "Population": "140,802"
+ },
+ {
+   "Ranking": 605,
+   "District": "Zunheboto",
+   "State": "Nagaland",
+   "Population": "140,757"
+ },
+ {
+   "Ranking": 606,
+   "District": "Tamenglong",
+   "State": "Manipur",
+   "Population": "140,651"
+ },
+ {
+   "Ranking": 607,
+   "District": "Narayanpur",
+   "State": "Chhattisgarh",
+   "Population": "139,820"
+ },
+ {
+   "Ranking": 608,
+   "District": "West Sikkim",
+   "State": "Sikkim",
+   "Population": "136,435"
+ },
+ {
+   "Ranking": 609,
+   "District": "Leh",
+   "State": "Jammu and Kashmir",
+   "Population": "133,487"
+ },
+ {
+   "Ranking": 610,
+   "District": "Champhai",
+   "State": "Mizoram",
+   "Population": "125,745"
+ },
+ {
+   "Ranking": 611,
+   "District": "Lawngtlai",
+   "State": "Mizoram",
+   "Population": "117,894"
+ },
+ {
+   "Ranking": 612,
+   "District": "West Siang",
+   "State": "Arunachal Pradesh",
+   "Population": "112,274"
+ },
+ {
+   "Ranking": 613,
+   "District": "Tirap",
+   "State": "Arunachal Pradesh",
+   "Population": "111,975"
+ },
+ {
+   "Ranking": 614,
+   "District": "North and Middle Andaman",
+   "State": "Andaman and Nicobar Islands",
+   "Population": "105,597"
+ },
+ {
+   "Ranking": 615,
+   "District": "East Siang",
+   "State": "Arunachal Pradesh",
+   "Population": "99,214"
+ },
+ {
+   "Ranking": 616,
+   "District": "Peren",
+   "State": "Nagaland",
+   "Population": "95,219"
+ },
+ {
+   "Ranking": 617,
+   "District": "Kurung Kumey",
+   "State": "Arunachal Pradesh",
+   "Population": "92,076"
+ },
+ {
+   "Ranking": 618,
+   "District": "Mamit",
+   "State": "Mizoram",
+   "Population": "86,364"
+ },
+ {
+   "Ranking": 619,
+   "District": "Kinnaur",
+   "State": "Himachal Pradesh",
+   "Population": "84,121"
+ },
+ {
+   "Ranking": 620,
+   "District": "Kolasib",
+   "State": "Mizoram",
+   "Population": "83,955"
+ },
+ {
+   "Ranking": 621,
+   "District": "West Kameng",
+   "State": "Arunachal Pradesh",
+   "Population": "83,947"
+ },
+ {
+   "Ranking": 622,
+   "District": "Upper Subansiri",
+   "State": "Arunachal Pradesh",
+   "Population": "83,448"
+ },
+ {
+   "Ranking": 623,
+   "District": "Lower Subansiri",
+   "State": "Arunachal Pradesh",
+   "Population": "83,030"
+ },
+ {
+   "Ranking": 624,
+   "District": "East Kameng",
+   "State": "Arunachal Pradesh",
+   "Population": "78,690"
+ },
+ {
+   "Ranking": 625,
+   "District": "Kiphire",
+   "State": "Nagaland",
+   "Population": "74,004"
+ },
+ {
+   "Ranking": 626,
+   "District": "Serchhip",
+   "State": "Mizoram",
+   "Population": "64,937"
+ },
+ {
+   "Ranking": 627,
+   "District": "Lakshadweep",
+   "State": "Lakshadweep",
+   "Population": "64,473"
+ },
+ {
+   "Ranking": 628,
+   "District": "Saiha",
+   "State": "Mizoram",
+   "Population": "56,574"
+ },
+ {
+   "Ranking": 629,
+   "District": "Yanam",
+   "State": "Puducherry",
+   "Population": "55,626"
+ },
+ {
+   "Ranking": 630,
+   "District": "Lower Dibang Valley",
+   "State": "Arunachal Pradesh",
+   "Population": "54,080"
+ },
+ {
+   "Ranking": 631,
+   "District": "Diu",
+   "State": "Daman and Diu",
+   "Population": "52,074"
+ },
+ {
+   "Ranking": 632,
+   "District": "Longleng",
+   "State": "Nagaland",
+   "Population": "50,484"
+ },
+ {
+   "Ranking": 633,
+   "District": "Tawang",
+   "State": "Arunachal Pradesh",
+   "Population": "49,977"
+ },
+ {
+   "Ranking": 634,
+   "District": "North Sikkim",
+   "State": "Sikkim",
+   "Population": "43,709"
+ },
+ {
+   "Ranking": 635,
+   "District": "Mahe",
+   "State": "Puducherry",
+   "Population": "41,816"
+ },
+ {
+   "Ranking": 636,
+   "District": "Nicobars",
+   "State": "Andaman and Nicobar Islands",
+   "Population": "36,842"
+ },
+ {
+   "Ranking": 637,
+   "District": "Upper Siang",
+   "State": "Arunachal Pradesh",
+   "Population": "35,320"
+ },
+ {
+   "Ranking": 638,
+   "District": "Lahul and Spiti",
+   "State": "Himachal Pradesh",
+   "Population": "31,564"
+ },
+ {
+   "Ranking": 639,
+   "District": "Anjaw",
+   "State": "Arunachal Pradesh",
+   "Population": "21,167"
+ },
+ {
+   "Ranking": 640,
+   "District": "Dibang Valley",
+   "State": "Arunachal Pradesh",
+   "Population": "8,004"
+ }
+]

@@ -1,0 +1,3712 @@
+[
+ {
+   "District_Name": "ALIRAJPUR & DAHOD",
+   "Mean_LAI": "15.580663293985392",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RATLAM & BANSWARA",
+   "Mean_LAI": "5.511641577060932",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MANDSAUR & JHALAWAR",
+   "Mean_LAI": "5.691594069998472",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NIMACH & CHITTAURGARH",
+   "Mean_LAI": "8.023506197543218",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BARAN & SHEOPUR",
+   "Mean_LAI": "5.374968571193588",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SABAR KANTHA & UDAIPUR",
+   "Mean_LAI": "9.5554782984904",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SABAR KANTHA & SIROHI",
+   "Mean_LAI": "8.19594743880458",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SAHIBGANJ, MALDAH & KATIHAR",
+   "Mean_LAI": "3.9096060572401776",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MIRPUR",
+   "Mean_LAI": "9.39332531039718",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MUZAFFARABAD",
+   "Mean_LAI": "8.979595483079082",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PUNCH",
+   "Mean_LAI": "11.864747824884503",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ANANTNAG",
+   "Mean_LAI": "9.312367240601953",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BARAMULA",
+   "Mean_LAI": "10.071765163969038",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KATHUA",
+   "Mean_LAI": "12.396316272539591",
+   "Year": 2024
+ },
+ {
+   "District_Name": "UDHAMPUR",
+   "Mean_LAI": "12.720503294904542",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BADGAM",
+   "Mean_LAI": "7.76142826978842",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BANDIPURA",
+   "Mean_LAI": "5.999101011778538",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GANDERBAL",
+   "Mean_LAI": "8.277443765086648",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KULGAM",
+   "Mean_LAI": "7.86910694588311",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KUPWARA",
+   "Mean_LAI": "10.778590781927646",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PULWAMA",
+   "Mean_LAI": "9.714864405072488",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RAJAURI",
+   "Mean_LAI": "11.719088124618237",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RAMBAN",
+   "Mean_LAI": "10.835955738843625",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RIASI",
+   "Mean_LAI": "11.868530491316914",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SHUPIYAN",
+   "Mean_LAI": "11.494464693333445",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SRINAGAR",
+   "Mean_LAI": "9.000734862360341",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KISHTWAR",
+   "Mean_LAI": "8.005119075902863",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DODA",
+   "Mean_LAI": "13.637181955409108",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SAMBA",
+   "Mean_LAI": "10.338301809799772",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JAMMU",
+   "Mean_LAI": "11.013077334662029",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BILASPUR",
+   "Mean_LAI": "14.03080075690106",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHAMBA",
+   "Mean_LAI": "11.41219634903356",
+   "Year": 2024
+ },
+ {
+   "District_Name": "HAMIRPUR",
+   "Mean_LAI": "14.572324372742182",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KANGRA",
+   "Mean_LAI": "14.0844536852319",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KULLU",
+   "Mean_LAI": "12.159143090314757",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MANDI",
+   "Mean_LAI": "16.28368228546077",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SHIMLA",
+   "Mean_LAI": "13.516574059413175",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SIRMAUR",
+   "Mean_LAI": "14.76665590654443",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SOLAN",
+   "Mean_LAI": "14.716449427739516",
+   "Year": 2024
+ },
+ {
+   "District_Name": "UNA",
+   "Mean_LAI": "12.823878460060186",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KINNAUR",
+   "Mean_LAI": "6.161147449319293",
+   "Year": 2024
+ },
+ {
+   "District_Name": "LAHUL & SPITI",
+   "Mean_LAI": "3.3274406127196103",
+   "Year": 2024
+ },
+ {
+   "District_Name": "AMRITSAR",
+   "Mean_LAI": "9.81778436878983",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BARNALA",
+   "Mean_LAI": "13.645591140925088",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BATHINDA",
+   "Mean_LAI": "12.847945783247257",
+   "Year": 2024
+ },
+ {
+   "District_Name": "FARIDKOT",
+   "Mean_LAI": "12.870082473002071",
+   "Year": 2024
+ },
+ {
+   "District_Name": "FATEHGARH SAHIB",
+   "Mean_LAI": "9.892228993283451",
+   "Year": 2024
+ },
+ {
+   "District_Name": "FAZILKA",
+   "Mean_LAI": "11.353694351545794",
+   "Year": 2024
+ },
+ {
+   "District_Name": "FIROZPUR",
+   "Mean_LAI": "12.040711260451536",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GURDASPUR",
+   "Mean_LAI": "10.106015067176616",
+   "Year": 2024
+ },
+ {
+   "District_Name": "HOSHIARPUR",
+   "Mean_LAI": "10.978463921162133",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JALANDHAR",
+   "Mean_LAI": "9.240014878661649",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KAPURTHALA",
+   "Mean_LAI": "9.48786646346498",
+   "Year": 2024
+ },
+ {
+   "District_Name": "LUDHIANA",
+   "Mean_LAI": "9.80561286960112",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MANSA",
+   "Mean_LAI": "13.06402874345244",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MOGA",
+   "Mean_LAI": "11.319729799358976",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SRI MUKTSAR SAHIB",
+   "Mean_LAI": "13.395650623127654",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SHAHID BHAGAT SINGH NAGAR",
+   "Mean_LAI": "9.16751246283374",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PATHANKOT",
+   "Mean_LAI": "11.52271351322073",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PATIALA",
+   "Mean_LAI": "10.73194999983832",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RUPNAGAR",
+   "Mean_LAI": "9.859791569968705",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SANGRUR",
+   "Mean_LAI": "12.981256623356158",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SAS NAGAR (SAHIBZADA AJIT SINGH NAGAR",
+   "Mean_LAI": "8.65406787453988",
+   "Year": 2024
+ },
+ {
+   "District_Name": "TARN TARAN",
+   "Mean_LAI": "11.591038426141438",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHANDIGARH",
+   "Mean_LAI": "7.966756240152911",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ALMORA",
+   "Mean_LAI": "15.676091818500012",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BAGESHWAR",
+   "Mean_LAI": "16.98185221664422",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHAMPAWAT",
+   "Mean_LAI": "21.74814821785606",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DEHRADUN",
+   "Mean_LAI": "17.719115414816603",
+   "Year": 2024
+ },
+ {
+   "District_Name": "HARIDWAR",
+   "Mean_LAI": "11.131344710291811",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NAINITAL",
+   "Mean_LAI": "22.567240461554128",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PAURI GARHWAL",
+   "Mean_LAI": "18.43810885972835",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RUDRAPRAYAG",
+   "Mean_LAI": "17.14584055767381",
+   "Year": 2024
+ },
+ {
+   "District_Name": "TEHRI GARHWAL",
+   "Mean_LAI": "17.61764285753274",
+   "Year": 2024
+ },
+ {
+   "District_Name": "UDHAM SINGH NAGAR",
+   "Mean_LAI": "12.306790851540857",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHAMOLI",
+   "Mean_LAI": "12.53462282242708",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PITHORAGARH",
+   "Mean_LAI": "12.466858210838266",
+   "Year": 2024
+ },
+ {
+   "District_Name": "UTTARKASHI",
+   "Mean_LAI": "14.09305166875442",
+   "Year": 2024
+ },
+ {
+   "District_Name": "AMBALA",
+   "Mean_LAI": "9.161869460557384",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BHIWANI",
+   "Mean_LAI": "7.862915556018504",
+   "Year": 2024
+ },
+ {
+   "District_Name": "FARIDABAD",
+   "Mean_LAI": "7.099271335191563",
+   "Year": 2024
+ },
+ {
+   "District_Name": "FATEHABAD",
+   "Mean_LAI": "12.086083205891622",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GURUGRAM",
+   "Mean_LAI": "6.674191515511642",
+   "Year": 2024
+ },
+ {
+   "District_Name": "HISAR",
+   "Mean_LAI": "8.96233394686788",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JHAJJAR",
+   "Mean_LAI": "8.508937177739352",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JIND",
+   "Mean_LAI": "11.40476218051446",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KAITHAL",
+   "Mean_LAI": "10.996517184669315",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KARNAL",
+   "Mean_LAI": "10.07437211962327",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KURUKSHETRA",
+   "Mean_LAI": "9.583881447255571",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MAHENDRAGARH",
+   "Mean_LAI": "7.823875818725137",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MEWAT",
+   "Mean_LAI": "7.637128428461214",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PALWAL",
+   "Mean_LAI": "9.395425368848713",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PANCHKULA",
+   "Mean_LAI": "11.68217241917681",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PANIPAT",
+   "Mean_LAI": "9.916319405720742",
+   "Year": 2024
+ },
+ {
+   "District_Name": "REWARI",
+   "Mean_LAI": "7.518214585209114",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ROHTAK",
+   "Mean_LAI": "9.235565142460157",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SIRSA",
+   "Mean_LAI": "10.724734752701474",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SONIPAT",
+   "Mean_LAI": "9.697630356055011",
+   "Year": 2024
+ },
+ {
+   "District_Name": "YAMUNANAGAR",
+   "Mean_LAI": "10.735179740717289",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHARKHI DADRI",
+   "Mean_LAI": "8.22767410717724",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CENTRAL",
+   "Mean_LAI": "6.095460538279688",
+   "Year": 2024
+ },
+ {
+   "District_Name": "EAST",
+   "Mean_LAI": "",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NEW DELHI",
+   "Mean_LAI": "5.457344052376287",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NORTH",
+   "Mean_LAI": "6.748889382426688",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NORTH EAST",
+   "Mean_LAI": "7.037917843691147",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NORTH WEST",
+   "Mean_LAI": "5.675491273209327",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SHAHADRA",
+   "Mean_LAI": "",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SOUTH",
+   "Mean_LAI": "6.685533819158776",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SOUTH WEST",
+   "Mean_LAI": "6.250834683439741",
+   "Year": 2024
+ },
+ {
+   "District_Name": "WEST",
+   "Mean_LAI": "4.732148809226205",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SOUTH EAST",
+   "Mean_LAI": "4.8012318420387485",
+   "Year": 2024
+ },
+ {
+   "District_Name": "AJMER",
+   "Mean_LAI": "5.849950413432341",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ALWAR",
+   "Mean_LAI": "7.342184084209161",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BANSWARA",
+   "Mean_LAI": "7.419093945048054",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BARAN",
+   "Mean_LAI": "7.838343934870306",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BARMER",
+   "Mean_LAI": "3.449406429532214",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BHARATPUR",
+   "Mean_LAI": "7.309776731512548",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BHILWARA",
+   "Mean_LAI": "6.231694242382803",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BIKANER",
+   "Mean_LAI": "3.728370860130268",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BUNDI",
+   "Mean_LAI": "7.525933335716812",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHITTAURGARH",
+   "Mean_LAI": "7.114067351708975",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHURU",
+   "Mean_LAI": "3.984275291812583",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DAUSA",
+   "Mean_LAI": "6.648850738360619",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DHAULPUR",
+   "Mean_LAI": "6.871990389210049",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DUNGARPUR",
+   "Mean_LAI": "7.896149365544874",
+   "Year": 2024
+ },
+ {
+   "District_Name": "HANUMANGARH",
+   "Mean_LAI": "5.9533858487860005",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JAIPUR",
+   "Mean_LAI": "5.921390535495985",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JAISALMER",
+   "Mean_LAI": "2.858504147507652",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JALOR",
+   "Mean_LAI": "5.372936318229402",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JHALAWAR",
+   "Mean_LAI": "7.092092805255388",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JHUNJHUNUN",
+   "Mean_LAI": "6.138424866841906",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JODHPUR",
+   "Mean_LAI": "4.260433546886173",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KARAULI",
+   "Mean_LAI": "6.884229958568305",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GANGANAGAR",
+   "Mean_LAI": "5.864814167532799",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KOTA",
+   "Mean_LAI": "8.065377057229744",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NAGAUR",
+   "Mean_LAI": "4.561802615845743",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PALI",
+   "Mean_LAI": "5.8682854739829695",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PRATAPGARH",
+   "Mean_LAI": "7.87046072928953",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RAJ SAMAND",
+   "Mean_LAI": "7.256985071837669",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SAWAI MADHOPUR",
+   "Mean_LAI": "7.060187607746314",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SIKAR",
+   "Mean_LAI": "5.863802734663339",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SIROHI",
+   "Mean_LAI": "7.404525721848742",
+   "Year": 2024
+ },
+ {
+   "District_Name": "TONK",
+   "Mean_LAI": "6.15813525557258",
+   "Year": 2024
+ },
+ {
+   "District_Name": "UDAIPUR",
+   "Mean_LAI": "8.761708518151964",
+   "Year": 2024
+ },
+ {
+   "District_Name": "AGRA",
+   "Mean_LAI": "7.598324224042444",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ALIGARH",
+   "Mean_LAI": "8.909974424898182",
+   "Year": 2024
+ },
+ {
+   "District_Name": "AMBEDKARNAGAR",
+   "Mean_LAI": "7.256588685528349",
+   "Year": 2024
+ },
+ {
+   "District_Name": "AMETHI",
+   "Mean_LAI": "7.746175236964118",
+   "Year": 2024
+ },
+ {
+   "District_Name": "AMROHA",
+   "Mean_LAI": "8.865496895309466",
+   "Year": 2024
+ },
+ {
+   "District_Name": "AURAIYA",
+   "Mean_LAI": "8.745260284882153",
+   "Year": 2024
+ },
+ {
+   "District_Name": "AZAMGARH",
+   "Mean_LAI": "7.636293545869687",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BUDAUN",
+   "Mean_LAI": "7.176374542586685",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BAGHPAT",
+   "Mean_LAI": "9.301661493657589",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BAHRAICH",
+   "Mean_LAI": "9.339287983002942",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BALLIA",
+   "Mean_LAI": "7.162278528918077",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BALRAMPUR",
+   "Mean_LAI": "9.05403026924458",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BANDA",
+   "Mean_LAI": "7.073973055723084",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BARABANKI",
+   "Mean_LAI": "8.760894931741577",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BAREILLY",
+   "Mean_LAI": "8.098504399832343",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BASTI",
+   "Mean_LAI": "7.674436610961336",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BHADOHI",
+   "Mean_LAI": "6.861172234878741",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BIJNOR",
+   "Mean_LAI": "10.010427072193878",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BULANDSHAHR",
+   "Mean_LAI": "8.397389533149218",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHANDAULI",
+   "Mean_LAI": "9.01086144898047",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHITRAKOOT",
+   "Mean_LAI": "7.542239993947453",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DEORIA",
+   "Mean_LAI": "8.46698820343962",
+   "Year": 2024
+ },
+ {
+   "District_Name": "AYODHYA",
+   "Mean_LAI": "7.669984460679486",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ETAH",
+   "Mean_LAI": "8.322981095969205",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ETAWAH",
+   "Mean_LAI": "8.734022832490446",
+   "Year": 2024
+ },
+ {
+   "District_Name": "FARRUKHABAD",
+   "Mean_LAI": "7.288060479468609",
+   "Year": 2024
+ },
+ {
+   "District_Name": "FATEHPUR",
+   "Mean_LAI": "7.7656214003065",
+   "Year": 2024
+ },
+ {
+   "District_Name": "FIROZABAD",
+   "Mean_LAI": "7.582568188072499",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GAUTAMBUDHNAGAR",
+   "Mean_LAI": "7.024887174823629",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GAZIPUR",
+   "Mean_LAI": "7.585706727803124",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GHAZIABAD",
+   "Mean_LAI": "7.967061544893016",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GONDA",
+   "Mean_LAI": "7.967896700065805",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GORAKHPUR",
+   "Mean_LAI": "8.086355415317055",
+   "Year": 2024
+ },
+ {
+   "District_Name": "HAMIRPUR",
+   "Mean_LAI": "7.398606689465887",
+   "Year": 2024
+ },
+ {
+   "District_Name": "HAPUR",
+   "Mean_LAI": "8.43031378551013",
+   "Year": 2024
+ },
+ {
+   "District_Name": "HARDOI",
+   "Mean_LAI": "7.769864886512656",
+   "Year": 2024
+ },
+ {
+   "District_Name": "HATHRAS",
+   "Mean_LAI": "8.240511370346148",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JALAUN",
+   "Mean_LAI": "7.354917467370503",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JAUNPUR",
+   "Mean_LAI": "7.405972106580793",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JHANSI",
+   "Mean_LAI": "8.161035065559322",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KANNAUJ",
+   "Mean_LAI": "7.742137604623968",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KANPUR",
+   "Mean_LAI": "7.8048633522177555",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KANPUR DEHAT",
+   "Mean_LAI": "8.698104969974548",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KASGANJ",
+   "Mean_LAI": "7.8487951228707455",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KAUSHAMBI",
+   "Mean_LAI": "7.252165350538932",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KHERI",
+   "Mean_LAI": "10.962190445804346",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KUSHINAGAR",
+   "Mean_LAI": "9.399323029582662",
+   "Year": 2024
+ },
+ {
+   "District_Name": "LALITPUR",
+   "Mean_LAI": "7.794795983837452",
+   "Year": 2024
+ },
+ {
+   "District_Name": "LUCKNOW",
+   "Mean_LAI": "7.768788081221235",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MAHOBA",
+   "Mean_LAI": "7.257646240672083",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MAINPURI",
+   "Mean_LAI": "8.193681990039599",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MATHURA",
+   "Mean_LAI": "8.442837372139408",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MAU",
+   "Mean_LAI": "8.058764063962528",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MEERUT",
+   "Mean_LAI": "9.499719808869251",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MIRZAPUR",
+   "Mean_LAI": "6.7655295432894125",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MORADABAD",
+   "Mean_LAI": "8.88258242886765",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MUZAFFARNAGAR",
+   "Mean_LAI": "10.441841481368956",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PILIBHIT",
+   "Mean_LAI": "12.04770479977003",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PRATAPGARH",
+   "Mean_LAI": "7.242125796874138",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RAIBEARELI",
+   "Mean_LAI": "7.542581557050147",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RAMPUR",
+   "Mean_LAI": "9.797491758807883",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SAHARANPUR",
+   "Mean_LAI": "10.736854466164903",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SAMBHAL",
+   "Mean_LAI": "7.823165869218464",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SANTKABIRNAGAR",
+   "Mean_LAI": "8.018255709726574",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SHAHJAHANPUR",
+   "Mean_LAI": "8.31313160195697",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SHAMLI",
+   "Mean_LAI": "9.92062087227462",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SHRAWASTI",
+   "Mean_LAI": "9.845162816589797",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SIDDHARTHNAGAR",
+   "Mean_LAI": "8.19841459743685",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SITAPUR",
+   "Mean_LAI": "8.101633144886359",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SONBHADRA",
+   "Mean_LAI": "8.910727830988154",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SULTANPUR",
+   "Mean_LAI": "7.364053487382855",
+   "Year": 2024
+ },
+ {
+   "District_Name": "UNNAO",
+   "Mean_LAI": "7.995200821874454",
+   "Year": 2024
+ },
+ {
+   "District_Name": "VARANASI",
+   "Mean_LAI": "6.957944383549704",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PRAYAGRAJ",
+   "Mean_LAI": "7.148245150954455",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MAHARAJGANJ",
+   "Mean_LAI": "12.341500108711736",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ARARIA",
+   "Mean_LAI": "11.758455306735591",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ARWAL",
+   "Mean_LAI": "9.51399185006578",
+   "Year": 2024
+ },
+ {
+   "District_Name": "AURANGABAD",
+   "Mean_LAI": "8.779219108651652",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BANKA",
+   "Mean_LAI": "7.862856379824724",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BEGUSARAI",
+   "Mean_LAI": "7.906913023818637",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KAIMUR",
+   "Mean_LAI": "9.835994290625392",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BHAGALPUR",
+   "Mean_LAI": "7.44063687222524",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BHOJPUR",
+   "Mean_LAI": "8.913045151159956",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BUXAR",
+   "Mean_LAI": "10.40928561149965",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DARBHANGA",
+   "Mean_LAI": "9.690086558526472",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GAYA",
+   "Mean_LAI": "9.02712090831459",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GOPALGANJ",
+   "Mean_LAI": "7.955528495690093",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JAHANABAD",
+   "Mean_LAI": "9.366803029217133",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JAMUI",
+   "Mean_LAI": "9.201913042087572",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KATIHAR",
+   "Mean_LAI": "10.19893857359454",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KHAGARIA",
+   "Mean_LAI": "8.784560044523909",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KISHANGANJ",
+   "Mean_LAI": "10.45653754402482",
+   "Year": 2024
+ },
+ {
+   "District_Name": "LAKHISARAI",
+   "Mean_LAI": "9.092429324222715",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MADHEPURA",
+   "Mean_LAI": "12.120982253607387",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MADHUBANI",
+   "Mean_LAI": "9.58835049812957",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MUNGER",
+   "Mean_LAI": "9.379179708884244",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MUZAFFARPUR",
+   "Mean_LAI": "9.236978274747347",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NALANDA",
+   "Mean_LAI": "9.53998873351286",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NAWADA",
+   "Mean_LAI": "9.660737001496113",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PASHCHIMI CHAMPARAN",
+   "Mean_LAI": "12.515842314503228",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PATNA",
+   "Mean_LAI": "8.215163322173446",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PURBI CHAMPARAN",
+   "Mean_LAI": "9.304086184446168",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PURNIA",
+   "Mean_LAI": "11.545703050051374",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ROHTAS",
+   "Mean_LAI": "10.711540561066332",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SAHARSA",
+   "Mean_LAI": "10.41639747601278",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SAMASTIPUR",
+   "Mean_LAI": "9.114601207710852",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SARAN",
+   "Mean_LAI": "8.117977609998587",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SHEIKHPURA",
+   "Mean_LAI": "9.077083211717555",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SHEOHAR",
+   "Mean_LAI": "10.933830115039436",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SITAMARHI",
+   "Mean_LAI": "10.126089861785838",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SIWAN",
+   "Mean_LAI": "8.137527937177875",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SUPAUL",
+   "Mean_LAI": "11.30470616233676",
+   "Year": 2024
+ },
+ {
+   "District_Name": "VAISHALI",
+   "Mean_LAI": "7.909413499121698",
+   "Year": 2024
+ },
+ {
+   "District_Name": "EAST",
+   "Mean_LAI": "18.96185586596993",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NORTH",
+   "Mean_LAI": "8.325409531804281",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SOUTH",
+   "Mean_LAI": "19.731258876737893",
+   "Year": 2024
+ },
+ {
+   "District_Name": "WEST",
+   "Mean_LAI": "16.15397269003718",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ANJAW",
+   "Mean_LAI": "15.820323685461362",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHANGLANG",
+   "Mean_LAI": "31.82203610001373",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DIBANG VALLEY",
+   "Mean_LAI": "14.829682998858628",
+   "Year": 2024
+ },
+ {
+   "District_Name": "EAST KAMENG",
+   "Mean_LAI": "20.898338278242317",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KURUNG KUMEY",
+   "Mean_LAI": "15.10304478996614",
+   "Year": 2024
+ },
+ {
+   "District_Name": "LOHIT",
+   "Mean_LAI": "25.22467145338901",
+   "Year": 2024
+ },
+ {
+   "District_Name": "LOWER DIBANG VALLEY",
+   "Mean_LAI": "22.96095021007389",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PAPUMPARE",
+   "Mean_LAI": "29.197857312467765",
+   "Year": 2024
+ },
+ {
+   "District_Name": "TAWANG",
+   "Mean_LAI": "9.302794384928236",
+   "Year": 2024
+ },
+ {
+   "District_Name": "TIRAP",
+   "Mean_LAI": "37.28342381102162",
+   "Year": 2024
+ },
+ {
+   "District_Name": "UPPER SIANG",
+   "Mean_LAI": "21.092606199288284",
+   "Year": 2024
+ },
+ {
+   "District_Name": "UPPER SUBANSIRI",
+   "Mean_LAI": "19.797924132242525",
+   "Year": 2024
+ },
+ {
+   "District_Name": "WEST KAMENG",
+   "Mean_LAI": "20.356706691612985",
+   "Year": 2024
+ },
+ {
+   "District_Name": "LOWER SUBANSIRI",
+   "Mean_LAI": "27.25222857342608",
+   "Year": 2024
+ },
+ {
+   "District_Name": "WEST SIANG",
+   "Mean_LAI": "29.715470903107075",
+   "Year": 2024
+ },
+ {
+   "District_Name": "EAST SIANG",
+   "Mean_LAI": "25.96329559099392",
+   "Year": 2024
+ },
+ {
+   "District_Name": "LOWER SIANG",
+   "Mean_LAI": "36.922785297753975",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SIANG",
+   "Mean_LAI": "28.538565803620926",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SHI YOMI",
+   "Mean_LAI": "13.545907647811855",
+   "Year": 2024
+ },
+ {
+   "District_Name": "LEPA RADA",
+   "Mean_LAI": "34.725009564969234",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PAKKE KESSANG",
+   "Mean_LAI": "31.089949881311167",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KRA DAADI",
+   "Mean_LAI": "21.197252791967458",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NAMSAI",
+   "Mean_LAI": "32.008218221379934",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KAMLE",
+   "Mean_LAI": "30.595472045630977",
+   "Year": 2024
+ },
+ {
+   "District_Name": "LONGDING",
+   "Mean_LAI": "36.42674143518288",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PAREN",
+   "Mean_LAI": "36.91509868420708",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PHEK",
+   "Mean_LAI": "31.453763890325625",
+   "Year": 2024
+ },
+ {
+   "District_Name": "WOKHA",
+   "Mean_LAI": "39.20605633108153",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DIMAPUR",
+   "Mean_LAI": "26.09987376478251",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KOHIMA",
+   "Mean_LAI": "31.63777619480523",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KIPHIRE",
+   "Mean_LAI": "31.641780318694902",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ZUNHEBOTO",
+   "Mean_LAI": "36.29045798128479",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MOKOKCHUNG",
+   "Mean_LAI": "40.59848968539033",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MON",
+   "Mean_LAI": "34.30153034742369",
+   "Year": 2024
+ },
+ {
+   "District_Name": "TUENSANG",
+   "Mean_LAI": "32.09221849578798",
+   "Year": 2024
+ },
+ {
+   "District_Name": "LONGLENG",
+   "Mean_LAI": "39.219391910178885",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BISHNUPUR",
+   "Mean_LAI": "10.204250693326088",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHANDEL",
+   "Mean_LAI": "35.51975605563136",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHURACHANDPUR",
+   "Mean_LAI": "37.67558973972788",
+   "Year": 2024
+ },
+ {
+   "District_Name": "IMPHAL WEST",
+   "Mean_LAI": "9.936441556189356",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SENAPATI",
+   "Mean_LAI": "29.971882478375036",
+   "Year": 2024
+ },
+ {
+   "District_Name": "TAMENGLONG",
+   "Mean_LAI": "39.706673602807626",
+   "Year": 2024
+ },
+ {
+   "District_Name": "THOUBAL",
+   "Mean_LAI": "8.121045997931125",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KAMJONG",
+   "Mean_LAI": "39.29676407482078",
+   "Year": 2024
+ },
+ {
+   "District_Name": "IMPHAL EAST",
+   "Mean_LAI": "11.35302699811274",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JIRIBAM",
+   "Mean_LAI": "40.45485172116551",
+   "Year": 2024
+ },
+ {
+   "District_Name": "UKHRUL",
+   "Mean_LAI": "29.25841310822877",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NONEI",
+   "Mean_LAI": "42.12045077331164",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PHERZAWL",
+   "Mean_LAI": "47.0449350026096",
+   "Year": 2024
+ },
+ {
+   "District_Name": "TENGNOUPAL",
+   "Mean_LAI": "36.57500408848266",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KANGPOKPI",
+   "Mean_LAI": "26.300234840309272",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KAKCHING",
+   "Mean_LAI": "10.828996645259917",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHAMPHAI",
+   "Mean_LAI": "39.99283186913103",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SAIHA",
+   "Mean_LAI": "41.037860537011525",
+   "Year": 2024
+ },
+ {
+   "District_Name": "LAWNGTLAI",
+   "Mean_LAI": "35.242367097645435",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SERCHHIP",
+   "Mean_LAI": "42.08465106769533",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KOLASIB",
+   "Mean_LAI": "45.50636967454961",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MAMIT",
+   "Mean_LAI": "42.44206823573739",
+   "Year": 2024
+ },
+ {
+   "District_Name": "LUNGLEI",
+   "Mean_LAI": "42.47642483428972",
+   "Year": 2024
+ },
+ {
+   "District_Name": "AIZAWL",
+   "Mean_LAI": "42.93407893596792",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DHALAI",
+   "Mean_LAI": "27.513543832418417",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GOMATI",
+   "Mean_LAI": "21.595031217975837",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KHOWAI",
+   "Mean_LAI": "23.01751024128182",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NORTH TRIPURA",
+   "Mean_LAI": "28.768512363249812",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SEPAHIJALA",
+   "Mean_LAI": "16.71172730112775",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SOUTH TRIPURA",
+   "Mean_LAI": "18.96635149044392",
+   "Year": 2024
+ },
+ {
+   "District_Name": "UNOKOTI",
+   "Mean_LAI": "21.4816644801266",
+   "Year": 2024
+ },
+ {
+   "District_Name": "WEST TRIPURA",
+   "Mean_LAI": "16.89276258056382",
+   "Year": 2024
+ },
+ {
+   "District_Name": "EAST GARO HILLS",
+   "Mean_LAI": "24.380821485631145",
+   "Year": 2024
+ },
+ {
+   "District_Name": "EAST KHASI HILLS",
+   "Mean_LAI": "24.236838649367183",
+   "Year": 2024
+ },
+ {
+   "District_Name": "EAST JAINTIA HILLS",
+   "Mean_LAI": "27.22468021164159",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SOUTH GARO HILLS",
+   "Mean_LAI": "28.33035973067918",
+   "Year": 2024
+ },
+ {
+   "District_Name": "WEST GARO HILLS",
+   "Mean_LAI": "19.17374157376461",
+   "Year": 2024
+ },
+ {
+   "District_Name": "WEST KHASI HILLS",
+   "Mean_LAI": "27.029025193331123",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RI-BHOI",
+   "Mean_LAI": "24.05514210941211",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SOUTH WEST KHASI HILLS",
+   "Mean_LAI": "27.360682886419315",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SOUTH WEST GARO HILLS",
+   "Mean_LAI": "17.558022953128745",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NORTH GARO HILLS",
+   "Mean_LAI": "19.52096671909857",
+   "Year": 2024
+ },
+ {
+   "District_Name": "WEST JAINTIA HILLS",
+   "Mean_LAI": "25.670745881063304",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BAKSA",
+   "Mean_LAI": "14.92028949433258",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BARPETA",
+   "Mean_LAI": "8.442375005221598",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BONGAIGAON",
+   "Mean_LAI": "11.163851726988533",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CACHAR",
+   "Mean_LAI": "27.167238039806364",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHIRANG",
+   "Mean_LAI": "19.26675865007764",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DARRANG",
+   "Mean_LAI": "9.226455064161891",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DHEMAJI",
+   "Mean_LAI": "11.83022076278944",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DIBRUGARH",
+   "Mean_LAI": "13.366155622891837",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DIMA HASAO",
+   "Mean_LAI": "35.83962770514613",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GOALPARA",
+   "Mean_LAI": "10.787834173800972",
+   "Year": 2024
+ },
+ {
+   "District_Name": "HAILAKANDI",
+   "Mean_LAI": "24.294681973014736",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KAMRUP METRO",
+   "Mean_LAI": "17.19044225307051",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KAMRUP RURAL",
+   "Mean_LAI": "13.484143552072348",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KARIMGANJ",
+   "Mean_LAI": "18.17567724241106",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KOKRAJHAR",
+   "Mean_LAI": "19.19808122160372",
+   "Year": 2024
+ },
+ {
+   "District_Name": "LAKHIMPUR",
+   "Mean_LAI": "12.343234277737148",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MARIGAON",
+   "Mean_LAI": "10.584861262127037",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NALBARI",
+   "Mean_LAI": "9.178434099902962",
+   "Year": 2024
+ },
+ {
+   "District_Name": "TINSUKIA",
+   "Mean_LAI": "20.92291563380552",
+   "Year": 2024
+ },
+ {
+   "District_Name": "UDALGURI",
+   "Mean_LAI": "13.242842973199348",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DHUBRI",
+   "Mean_LAI": "7.93906315872567",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GOLAGHAT",
+   "Mean_LAI": "13.419499408647315",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JORHAT",
+   "Mean_LAI": "16.20712470317896",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NAGAON",
+   "Mean_LAI": "12.065665753096487",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SIBSAGAR",
+   "Mean_LAI": "12.565212554901898",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SONITPUR",
+   "Mean_LAI": "14.343465276847372",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BISWANATH",
+   "Mean_LAI": "13.151086443610913",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHARAIDEO",
+   "Mean_LAI": "17.247761185772294",
+   "Year": 2024
+ },
+ {
+   "District_Name": "HOJAI",
+   "Mean_LAI": "16.386397569017227",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KARBI ANGLONG",
+   "Mean_LAI": "34.04936740008704",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MAJULI",
+   "Mean_LAI": "7.474268188494889",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SOUTH SALMARA MANCACHAR",
+   "Mean_LAI": "6.112287038473559",
+   "Year": 2024
+ },
+ {
+   "District_Name": "WEST KARBI ANGLONG",
+   "Mean_LAI": "25.91575512094625",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ALIPUR DUAR",
+   "Mean_LAI": "18.79235925491028",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BANKURA",
+   "Mean_LAI": "8.906348147325764",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BIRBHUM",
+   "Mean_LAI": "9.440683441607623",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DAKSHIN DINAJPUR",
+   "Mean_LAI": "10.34601541937293",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DARJILING",
+   "Mean_LAI": "20.558065597994307",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PURBA MEDINIPUR",
+   "Mean_LAI": "10.173410061433271",
+   "Year": 2024
+ },
+ {
+   "District_Name": "HAORA",
+   "Mean_LAI": "10.241961730842853",
+   "Year": 2024
+ },
+ {
+   "District_Name": "HUGLI",
+   "Mean_LAI": "10.580692154787885",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JALPAIGURI",
+   "Mean_LAI": "15.112192484238172",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KOCH BIHAR",
+   "Mean_LAI": "10.88015070061073",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KOLKATA",
+   "Mean_LAI": "5.637226365836965",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MALDAH",
+   "Mean_LAI": "10.083015012224342",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MURSHIDABAD",
+   "Mean_LAI": "9.81383277490015",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NADIA",
+   "Mean_LAI": "10.52338877591175",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NORTH TWENTY-FOUR PARGANAS",
+   "Mean_LAI": "9.208954296819664",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PASCHIM MEDINIPUR",
+   "Mean_LAI": "10.755456361031952",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PURULIYA",
+   "Mean_LAI": "8.799348012465373",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SOUTH TWENTY-FOUR PARGANAS",
+   "Mean_LAI": "9.312489318099978",
+   "Year": 2024
+ },
+ {
+   "District_Name": "UTTAR DINAJPUR",
+   "Mean_LAI": "11.493496066451788",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PURBA BARDDHAMAN",
+   "Mean_LAI": "10.220477789624038",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JHARGRAM",
+   "Mean_LAI": "9.743236638968089",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PASCHIM BARDDHAMAN",
+   "Mean_LAI": "7.969675035253182",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KALIMPONG",
+   "Mean_LAI": "24.48002440528227",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BOKARO",
+   "Mean_LAI": "9.31929580160709",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHATRA",
+   "Mean_LAI": "11.239086963966969",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DHANBAD",
+   "Mean_LAI": "10.04232630440779",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DEOGHAR",
+   "Mean_LAI": "7.788648962937117",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DUMKA",
+   "Mean_LAI": "9.107527999108775",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GARHWA",
+   "Mean_LAI": "10.532442681064206",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GIRIDIH",
+   "Mean_LAI": "8.754017980297691",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GODDA",
+   "Mean_LAI": "8.899603311566668",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GUMLA",
+   "Mean_LAI": "9.55695929562126",
+   "Year": 2024
+ },
+ {
+   "District_Name": "HAZARIBAGH",
+   "Mean_LAI": "10.231884269736716",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JAMTARA",
+   "Mean_LAI": "8.602592517576037",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KHUNTI",
+   "Mean_LAI": "10.389333257745813",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KODARMA",
+   "Mean_LAI": "12.19336973951939",
+   "Year": 2024
+ },
+ {
+   "District_Name": "LATEHAR",
+   "Mean_LAI": "12.257754219856077",
+   "Year": 2024
+ },
+ {
+   "District_Name": "LOHARDAGA",
+   "Mean_LAI": "11.092523990467784",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PAKUR",
+   "Mean_LAI": "9.28314352153769",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PALAMU",
+   "Mean_LAI": "9.658146003790304",
+   "Year": 2024
+ },
+ {
+   "District_Name": "WEST SINGHBHUM",
+   "Mean_LAI": "12.659588979725577",
+   "Year": 2024
+ },
+ {
+   "District_Name": "EAST SINGHBHUM",
+   "Mean_LAI": "10.458341155684847",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RAMGARH",
+   "Mean_LAI": "8.336923601016077",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RANCHI",
+   "Mean_LAI": "9.385728169831458",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SAHIBGANJ",
+   "Mean_LAI": "10.15176774515072",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SARAIKELA-KHARSAWAN",
+   "Mean_LAI": "9.510417527967824",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SIMDEGA",
+   "Mean_LAI": "9.693562877800606",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ANUGUL",
+   "Mean_LAI": "12.788947715696702",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BOLANGIR (BALANGIR",
+   "Mean_LAI": "9.752965245650527",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BALASORE (BALESHWAR",
+   "Mean_LAI": "10.36842993577424",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BARAGARH",
+   "Mean_LAI": "10.644049248305816",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BHADRAK",
+   "Mean_LAI": "7.664686940434528",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CUTTACK",
+   "Mean_LAI": "10.062618938540538",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DEOGARH",
+   "Mean_LAI": "12.728805832394718",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DHENKANAL",
+   "Mean_LAI": "11.45131095268199",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GAJAPATI",
+   "Mean_LAI": "14.872098993736518",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GANJAM",
+   "Mean_LAI": "12.143173574262688",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JAGATSINGHPUR",
+   "Mean_LAI": "7.458938582922344",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JAJAPUR",
+   "Mean_LAI": "8.42251686785727",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JHARSUGUDA",
+   "Mean_LAI": "8.27480562495652",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KALAHANDI",
+   "Mean_LAI": "12.671156923004848",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KANDHAMAL",
+   "Mean_LAI": "15.36267846280176",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KENDRAPARHA",
+   "Mean_LAI": "9.075087430652328",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KEONJHAR (KENDUJHAR",
+   "Mean_LAI": "11.344087587682782",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KHORDHA",
+   "Mean_LAI": "10.491247578469231",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KORAPUT",
+   "Mean_LAI": "11.120505553907622",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MALKANGIRI",
+   "Mean_LAI": "12.493060531001344",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MAYURBHANJ",
+   "Mean_LAI": "14.932372136564512",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NABARANGAPUR",
+   "Mean_LAI": "10.010730322977649",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NAYAGARH",
+   "Mean_LAI": "13.894851942215515",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NUAPARHA",
+   "Mean_LAI": "10.637079079181309",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PURI",
+   "Mean_LAI": "9.31952306908045",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RAYAGARHA",
+   "Mean_LAI": "13.461051180441576",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SAMBALPUR",
+   "Mean_LAI": "13.452721657886825",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SUBARNAPUR",
+   "Mean_LAI": "9.948940096935548",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SUNDARGARH",
+   "Mean_LAI": "11.193399474131198",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BAUDH (BAUDA",
+   "Mean_LAI": "12.6509167354223",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BALOD",
+   "Mean_LAI": "9.558971363073882",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BALODA BAZAR",
+   "Mean_LAI": "9.566253524002768",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BALRAMPUR",
+   "Mean_LAI": "11.815251783601305",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BASTAR",
+   "Mean_LAI": "11.215448363224931",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BEMETARA",
+   "Mean_LAI": "8.497877888376404",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BIJAPUR",
+   "Mean_LAI": "15.245607794150118",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BILASPUR",
+   "Mean_LAI": "9.790517762363896",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GAURELA-PENDRA-MARWAHI",
+   "Mean_LAI": "10.338019884285815",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DAKSHIN BASTAR DANTEWADA",
+   "Mean_LAI": "12.81049024307082",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DHAMTARI",
+   "Mean_LAI": "11.876137502499304",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DURG",
+   "Mean_LAI": "7.165955319847784",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GARIYABAND",
+   "Mean_LAI": "12.609536973721834",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JANJGIR - CHAMPA",
+   "Mean_LAI": "9.128402954937238",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JASHPUR",
+   "Mean_LAI": "10.44827547427476",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KABIRDHAM",
+   "Mean_LAI": "10.917384984453264",
+   "Year": 2024
+ },
+ {
+   "District_Name": "UTTAR BASTAR KANKER",
+   "Mean_LAI": "12.215396505123",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KONDAGAON",
+   "Mean_LAI": "11.6303781354107",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KORBA",
+   "Mean_LAI": "11.2199177426755",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KOREA",
+   "Mean_LAI": "11.20704021052607",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MAHASAMUND",
+   "Mean_LAI": "9.766073006659155",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MUNGELI",
+   "Mean_LAI": "12.318661431249732",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NARAINPUR",
+   "Mean_LAI": "16.03598605384905",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RAIGARH",
+   "Mean_LAI": "10.099170519750992",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RAIPUR",
+   "Mean_LAI": "6.847296536039396",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RAJ NANDGAON",
+   "Mean_LAI": "10.373907740948802",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SUKMA",
+   "Mean_LAI": "13.700903866548822",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SURAJPUR",
+   "Mean_LAI": "10.85549010771696",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SURGUJA",
+   "Mean_LAI": "9.870718866587389",
+   "Year": 2024
+ },
+ {
+   "District_Name": "AGAR MALWA",
+   "Mean_LAI": "6.673184268201374",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RATLAM & MANDSAUR",
+   "Mean_LAI": "7.051318075383339",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ALIRAJPUR",
+   "Mean_LAI": "7.915047334749233",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ANUPPUR",
+   "Mean_LAI": "8.916786718221298",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ASHOKNAGAR",
+   "Mean_LAI": "7.776416079545806",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BALAGHAT",
+   "Mean_LAI": "12.843099772831414",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BARWANI",
+   "Mean_LAI": "6.746727933901182",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BETUL",
+   "Mean_LAI": "9.550620759144856",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BHIND",
+   "Mean_LAI": "7.3393765710735055",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BHOPAL",
+   "Mean_LAI": "7.70906354425051",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BURHANPUR",
+   "Mean_LAI": "8.138367977393306",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHHATARPUR",
+   "Mean_LAI": "7.625994867973819",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHHINDWARA",
+   "Mean_LAI": "9.66607919743405",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DAMOH",
+   "Mean_LAI": "8.199696537802266",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DATIA",
+   "Mean_LAI": "8.776808015719215",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DEWAS",
+   "Mean_LAI": "7.896557148063662",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DHAR",
+   "Mean_LAI": "7.043541330851359",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DINDORI",
+   "Mean_LAI": "9.974204528299904",
+   "Year": 2024
+ },
+ {
+   "District_Name": "EAST NIMAR",
+   "Mean_LAI": "7.6784617005090015",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GUNA",
+   "Mean_LAI": "7.49042119844598",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GWALIOR",
+   "Mean_LAI": "8.454088865064206",
+   "Year": 2024
+ },
+ {
+   "District_Name": "HARDA",
+   "Mean_LAI": "10.065446579469238",
+   "Year": 2024
+ },
+ {
+   "District_Name": "HOSHANGABAD",
+   "Mean_LAI": "11.844551386339411",
+   "Year": 2024
+ },
+ {
+   "District_Name": "INDORE",
+   "Mean_LAI": "7.643525615430303",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JABALPUR",
+   "Mean_LAI": "9.941107449457617",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JHABUA",
+   "Mean_LAI": "7.159064600994016",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KATNI",
+   "Mean_LAI": "9.085157464333305",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MANDLA",
+   "Mean_LAI": "10.00479462990079",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MANDSAUR",
+   "Mean_LAI": "6.128695436104481",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MORENA",
+   "Mean_LAI": "7.666816198368746",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NARSHIMAPURA",
+   "Mean_LAI": "9.607919088185186",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NIMACH",
+   "Mean_LAI": "6.707010332708692",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PANNA",
+   "Mean_LAI": "8.498173546357902",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RAISEN",
+   "Mean_LAI": "9.324963097240309",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RAJGARH",
+   "Mean_LAI": "6.940437561694611",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RATLAM",
+   "Mean_LAI": "6.965242003383875",
+   "Year": 2024
+ },
+ {
+   "District_Name": "REWA",
+   "Mean_LAI": "7.151191247287758",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SAGAR",
+   "Mean_LAI": "7.90172709368452",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SATNA",
+   "Mean_LAI": "8.069171214808623",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SEHORE",
+   "Mean_LAI": "8.132732277047877",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SEONI",
+   "Mean_LAI": "9.89379855148406",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SHAHDOL",
+   "Mean_LAI": "8.705872968287864",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SHAJAPUR",
+   "Mean_LAI": "7.432966641007275",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SHEOPUR",
+   "Mean_LAI": "9.44713339295721",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SHIVPURI",
+   "Mean_LAI": "8.077768925953718",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SIDHI",
+   "Mean_LAI": "9.008764615083198",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SINGRAULI",
+   "Mean_LAI": "8.071431801371762",
+   "Year": 2024
+ },
+ {
+   "District_Name": "TIKAMGARH",
+   "Mean_LAI": "7.422224441906296",
+   "Year": 2024
+ },
+ {
+   "District_Name": "UJJAIN",
+   "Mean_LAI": "7.561091301526453",
+   "Year": 2024
+ },
+ {
+   "District_Name": "UMARIA",
+   "Mean_LAI": "10.562749615374925",
+   "Year": 2024
+ },
+ {
+   "District_Name": "VIDISHA",
+   "Mean_LAI": "8.297640692691177",
+   "Year": 2024
+ },
+ {
+   "District_Name": "WEST NIMAR",
+   "Mean_LAI": "7.423629356527254",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NIVARI",
+   "Mean_LAI": "7.528603186587312",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MORBI",
+   "Mean_LAI": "5.765157771369448",
+   "Year": 2024
+ },
+ {
+   "District_Name": "AHMADABAD",
+   "Mean_LAI": "5.09110424422181",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ANAND",
+   "Mean_LAI": "6.665093161900478",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DEVBHUMI DWARKA",
+   "Mean_LAI": "5.81260006770351",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JAMNAGAR",
+   "Mean_LAI": "5.849257229303007",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KACHCHH",
+   "Mean_LAI": "4.726734554405682",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BHAVNAGAR",
+   "Mean_LAI": "5.846954952921586",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BHARUCH",
+   "Mean_LAI": "6.073054857229507",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SURAT",
+   "Mean_LAI": "7.261094952680905",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NAVSARI",
+   "Mean_LAI": "7.709231845949855",
+   "Year": 2024
+ },
+ {
+   "District_Name": "VALSAD",
+   "Mean_LAI": "8.445923733937839",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ARAVALLI",
+   "Mean_LAI": "8.073517573951348",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BANAS KANTHA",
+   "Mean_LAI": "6.963069983405795",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHHOTA UDEPUR",
+   "Mean_LAI": "8.21347553292262",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DAHOD",
+   "Mean_LAI": "7.981907310584153",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DANGS",
+   "Mean_LAI": "10.494542521246087",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GIR SOMNATH",
+   "Mean_LAI": "7.597534944030311",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JUNAGADH",
+   "Mean_LAI": "8.043586987878001",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MAHISAGAR",
+   "Mean_LAI": "8.539857497106594",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NARMADA",
+   "Mean_LAI": "8.54583600698544",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PANCH MAHALS",
+   "Mean_LAI": "7.74867808532183",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SABAR KANTHA",
+   "Mean_LAI": "7.95485129596051",
+   "Year": 2024
+ },
+ {
+   "District_Name": "TAPI",
+   "Mean_LAI": "8.954000995232322",
+   "Year": 2024
+ },
+ {
+   "District_Name": "VADODARA",
+   "Mean_LAI": "6.914323367827786",
+   "Year": 2024
+ },
+ {
+   "District_Name": "AMRELI",
+   "Mean_LAI": "6.203458136301499",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PORBANDAR",
+   "Mean_LAI": "5.846228081139283",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RAJKOT",
+   "Mean_LAI": "6.246313461049943",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SURENDRANAGAR",
+   "Mean_LAI": "5.600719279171878",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BOTAD",
+   "Mean_LAI": "6.909965860804118",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KHEDA",
+   "Mean_LAI": "6.936523572827753",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MAHESANA",
+   "Mean_LAI": "6.558271824337955",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GANDHINAGAR",
+   "Mean_LAI": "6.467825834538587",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PATAN",
+   "Mean_LAI": "5.363130852853498",
+   "Year": 2024
+ },
+ {
+   "District_Name": "AHAMADNAGAR",
+   "Mean_LAI": "6.598676663043343",
+   "Year": 2024
+ },
+ {
+   "District_Name": "AKOLA",
+   "Mean_LAI": "7.108434769909044",
+   "Year": 2024
+ },
+ {
+   "District_Name": "AMARAVATI",
+   "Mean_LAI": "8.424893755610157",
+   "Year": 2024
+ },
+ {
+   "District_Name": "AURANGABAD",
+   "Mean_LAI": "7.504357000330132",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BHANDARA",
+   "Mean_LAI": "9.52753272137898",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BID",
+   "Mean_LAI": "6.568986659901045",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BULDHANA",
+   "Mean_LAI": "7.639065882250947",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHANDRAPUR",
+   "Mean_LAI": "9.69510845997884",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DHULE",
+   "Mean_LAI": "6.174034259013742",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GADCHIROLI",
+   "Mean_LAI": "13.382990015174885",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GONDIA",
+   "Mean_LAI": "11.059063608294732",
+   "Year": 2024
+ },
+ {
+   "District_Name": "HINGOLI",
+   "Mean_LAI": "7.267121371913509",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JALGAON",
+   "Mean_LAI": "7.512884307165836",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JALNA",
+   "Mean_LAI": "7.773171162987975",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KOLHAPUR",
+   "Mean_LAI": "10.450471794467632",
+   "Year": 2024
+ },
+ {
+   "District_Name": "LATUR",
+   "Mean_LAI": "6.160031612535793",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MUMBAI CITY",
+   "Mean_LAI": "3.3699779439145257",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NAGPUR",
+   "Mean_LAI": "8.862947513033415",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NANDED",
+   "Mean_LAI": "7.610823477555267",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NANDURBAR",
+   "Mean_LAI": "7.369767358578276",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NASHIK",
+   "Mean_LAI": "6.311808074571207",
+   "Year": 2024
+ },
+ {
+   "District_Name": "USMANABAD",
+   "Mean_LAI": "5.78183528831421",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PALGHAR",
+   "Mean_LAI": "9.274161448404667",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PARBHANI",
+   "Mean_LAI": "7.89439571632471",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PUNE",
+   "Mean_LAI": "7.194713991267838",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RAYGAD",
+   "Mean_LAI": "10.575268855681822",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RATNAGIRI",
+   "Mean_LAI": "13.731139564417688",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SANGLI",
+   "Mean_LAI": "6.646582511217649",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SATARA",
+   "Mean_LAI": "7.485713150747428",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SINDHUDURG",
+   "Mean_LAI": "14.329697138399217",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SOLAPUR",
+   "Mean_LAI": "6.1820549716035655",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SUB URBAN MUMBAI",
+   "Mean_LAI": "9.337058531651236",
+   "Year": 2024
+ },
+ {
+   "District_Name": "THANE",
+   "Mean_LAI": "8.790464729436387",
+   "Year": 2024
+ },
+ {
+   "District_Name": "WARDHA",
+   "Mean_LAI": "7.783882332574799",
+   "Year": 2024
+ },
+ {
+   "District_Name": "WASHIM",
+   "Mean_LAI": "7.100813802014844",
+   "Year": 2024
+ },
+ {
+   "District_Name": "YAVATMAL",
+   "Mean_LAI": "7.696884234125101",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ANANTAPUR",
+   "Mean_LAI": "5.561809626585808",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHITTOOR",
+   "Mean_LAI": "8.530585131602413",
+   "Year": 2024
+ },
+ {
+   "District_Name": "Y S R KADAPA",
+   "Mean_LAI": "7.818791067357686",
+   "Year": 2024
+ },
+ {
+   "District_Name": "EAST GODAVARI",
+   "Mean_LAI": "13.828521007723278",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GUNTUR",
+   "Mean_LAI": "7.351809345261233",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KRISHNA",
+   "Mean_LAI": "7.795366918282655",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KURNOOL",
+   "Mean_LAI": "6.849479208054146",
+   "Year": 2024
+ },
+ {
+   "District_Name": "POTTI SRIRAMULU NELLORE",
+   "Mean_LAI": "7.792250599468236",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PRAKASAM",
+   "Mean_LAI": "7.675753906533625",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SRIKAKULAM",
+   "Mean_LAI": "9.9693210369564",
+   "Year": 2024
+ },
+ {
+   "District_Name": "VISAKHAPATNAM",
+   "Mean_LAI": "14.69262725792264",
+   "Year": 2024
+ },
+ {
+   "District_Name": "VIZIANAGARAM",
+   "Mean_LAI": "10.686257519577005",
+   "Year": 2024
+ },
+ {
+   "District_Name": "WEST GODAVARI",
+   "Mean_LAI": "10.50406296922182",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BAGALKOT",
+   "Mean_LAI": "6.459610502381345",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BALLARI",
+   "Mean_LAI": "5.949660371607072",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BELAGAVI",
+   "Mean_LAI": "7.864910320775722",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BENGALURU RURAL",
+   "Mean_LAI": "6.601003187833542",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BENGALURU URBAN",
+   "Mean_LAI": "5.5586186440739365",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BIDAR",
+   "Mean_LAI": "6.494134084573779",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHAMARAJANAGAR",
+   "Mean_LAI": "10.481288019057986",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHIK BALLAPUR",
+   "Mean_LAI": "6.755388708686471",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHIKKAMAGALURU",
+   "Mean_LAI": "15.773996289926412",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHITRADURGA",
+   "Mean_LAI": "6.074287939196255",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DAKSHINA  KANNADA",
+   "Mean_LAI": "24.22725522955219",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DAVANGERE",
+   "Mean_LAI": "7.904160180185626",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DHARWAD",
+   "Mean_LAI": "6.491731726578229",
+   "Year": 2024
+ },
+ {
+   "District_Name": "GADAG",
+   "Mean_LAI": "5.204192214432852",
+   "Year": 2024
+ },
+ {
+   "District_Name": "HASSAN",
+   "Mean_LAI": "10.16209412304172",
+   "Year": 2024
+ },
+ {
+   "District_Name": "HAVERI",
+   "Mean_LAI": "7.327804982053037",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KALABURAGI",
+   "Mean_LAI": "6.759768153388621",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KODAGU",
+   "Mean_LAI": "24.70290462700097",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KOLAR",
+   "Mean_LAI": "6.929464076716663",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KOPPAL",
+   "Mean_LAI": "5.7323629864569",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MANDYA",
+   "Mean_LAI": "7.790907279308555",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MYSURU",
+   "Mean_LAI": "8.723578833277463",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RAICHUR",
+   "Mean_LAI": "6.493459032792488",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RAMANAGARAM",
+   "Mean_LAI": "7.805790878744802",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SHIVAMOGGA",
+   "Mean_LAI": "14.446184856822198",
+   "Year": 2024
+ },
+ {
+   "District_Name": "TUMAKURU",
+   "Mean_LAI": "6.884039694299272",
+   "Year": 2024
+ },
+ {
+   "District_Name": "UDUPI",
+   "Mean_LAI": "20.236733304266856",
+   "Year": 2024
+ },
+ {
+   "District_Name": "UTTARA  KANNADA",
+   "Mean_LAI": "20.747328092327884",
+   "Year": 2024
+ },
+ {
+   "District_Name": "VIJAYAPURA",
+   "Mean_LAI": "5.954645627517928",
+   "Year": 2024
+ },
+ {
+   "District_Name": "YADGIR",
+   "Mean_LAI": "7.046738301962901",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NORTH GOA",
+   "Mean_LAI": "16.147550063093835",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SOUTH GOA",
+   "Mean_LAI": "19.44419526975329",
+   "Year": 2024
+ },
+ {
+   "District_Name": "LAKSHADWEEP",
+   "Mean_LAI": "16.51208093701628",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ALAPPUZHA",
+   "Mean_LAI": "20.47467723941548",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ERNAKULAM",
+   "Mean_LAI": "24.203439329160677",
+   "Year": 2024
+ },
+ {
+   "District_Name": "IDUKKI",
+   "Mean_LAI": "26.89872164816356",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KANNUR",
+   "Mean_LAI": "27.008986790324",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KASARAGOD",
+   "Mean_LAI": "21.485318508554396",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KOLLAM",
+   "Mean_LAI": "26.23735389950062",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KOTTAYAM",
+   "Mean_LAI": "27.913762562261223",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KOZHIKODE",
+   "Mean_LAI": "32.72473573683904",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MALAPPURAM",
+   "Mean_LAI": "22.320635595589604",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PALAKKAD",
+   "Mean_LAI": "17.50334110892354",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PATTANAMTHITTA",
+   "Mean_LAI": "31.64167638566148",
+   "Year": 2024
+ },
+ {
+   "District_Name": "THIRUVANANTHAPURAM",
+   "Mean_LAI": "28.390958611823063",
+   "Year": 2024
+ },
+ {
+   "District_Name": "TRISSUR",
+   "Mean_LAI": "20.25195280687575",
+   "Year": 2024
+ },
+ {
+   "District_Name": "WAYANAD",
+   "Mean_LAI": "22.009924685716197",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ARIYALUR",
+   "Mean_LAI": "7.4927822984599395",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHENGALPATTU",
+   "Mean_LAI": "8.49907809508698",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CHENNAI",
+   "Mean_LAI": "5.912267883145834",
+   "Year": 2024
+ },
+ {
+   "District_Name": "COIMBATORE",
+   "Mean_LAI": "11.554152749353332",
+   "Year": 2024
+ },
+ {
+   "District_Name": "CUDDALORE",
+   "Mean_LAI": "8.23224900950628",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DHARMAPURI",
+   "Mean_LAI": "9.646119569685569",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DINDIGUL",
+   "Mean_LAI": "11.717519289400316",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ERODE",
+   "Mean_LAI": "10.189502727640471",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KANCHIPURAM",
+   "Mean_LAI": "7.465086844263927",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KALLAKKURICHI",
+   "Mean_LAI": "8.97438774081554",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KANYAKUMARI",
+   "Mean_LAI": "19.948540362160067",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KARUR",
+   "Mean_LAI": "6.586674438922394",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MADURAI",
+   "Mean_LAI": "8.722374816502807",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NILGIRIS",
+   "Mean_LAI": "19.102390361058497",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NAGAPATTINAM",
+   "Mean_LAI": "8.781862605590852",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NAMAKKAL",
+   "Mean_LAI": "8.786045925408768",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PERAMBALUR",
+   "Mean_LAI": "6.708206227907616",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PUDUKKOTTAI",
+   "Mean_LAI": "7.474877622106039",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RAMANATHAPURAM",
+   "Mean_LAI": "6.276061619423074",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RANIPPETTAI",
+   "Mean_LAI": "7.344701827486943",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SALEM",
+   "Mean_LAI": "10.789532716950555",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SIVAGANGA",
+   "Mean_LAI": "6.940780731836974",
+   "Year": 2024
+ },
+ {
+   "District_Name": "TENI",
+   "Mean_LAI": "11.942415364722422",
+   "Year": 2024
+ },
+ {
+   "District_Name": "TENKASI",
+   "Mean_LAI": "9.002968608024812",
+   "Year": 2024
+ },
+ {
+   "District_Name": "THANJAVUR",
+   "Mean_LAI": "8.928687554993308",
+   "Year": 2024
+ },
+ {
+   "District_Name": "THIRUVARUR",
+   "Mean_LAI": "9.594593609279729",
+   "Year": 2024
+ },
+ {
+   "District_Name": "TIRUCHIRAPALLI",
+   "Mean_LAI": "7.91498457675406",
+   "Year": 2024
+ },
+ {
+   "District_Name": "TIRUNELVELI",
+   "Mean_LAI": "10.528338978721562",
+   "Year": 2024
+ },
+ {
+   "District_Name": "TIRUPPUR",
+   "Mean_LAI": "7.116032393761026",
+   "Year": 2024
+ },
+ {
+   "District_Name": "TIRUPPATTUR",
+   "Mean_LAI": "10.737935473971811",
+   "Year": 2024
+ },
+ {
+   "District_Name": "TIRUVALLUR",
+   "Mean_LAI": "7.881097198844242",
+   "Year": 2024
+ },
+ {
+   "District_Name": "TIRUVANNAMALAI",
+   "Mean_LAI": "9.507115542476503",
+   "Year": 2024
+ },
+ {
+   "District_Name": "TUTICORIN",
+   "Mean_LAI": "6.270822530722236",
+   "Year": 2024
+ },
+ {
+   "District_Name": "VELLORE",
+   "Mean_LAI": "10.15722990167097",
+   "Year": 2024
+ },
+ {
+   "District_Name": "VILLUPURAM",
+   "Mean_LAI": "8.211808752176697",
+   "Year": 2024
+ },
+ {
+   "District_Name": "VIRUDHUNAGAR",
+   "Mean_LAI": "7.229373790188136",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KRISHNAGIRI",
+   "Mean_LAI": "8.283090027803253",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KARAIKAL",
+   "Mean_LAI": "9.167674469056006",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MAHE",
+   "Mean_LAI": "23.96742175570224",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PUDUCHERRY",
+   "Mean_LAI": "8.385894173072654",
+   "Year": 2024
+ },
+ {
+   "District_Name": "YANAM",
+   "Mean_LAI": "8.590559267508041",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NICOBAR",
+   "Mean_LAI": "27.863957962907435",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NORTH & MIDDLE ANDAMAN",
+   "Mean_LAI": "36.44510385939902",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SOUTH ANDAMAN",
+   "Mean_LAI": "35.2288732084301",
+   "Year": 2024
+ },
+ {
+   "District_Name": "ADILABAD",
+   "Mean_LAI": "8.450554041029323",
+   "Year": 2024
+ },
+ {
+   "District_Name": "HYDERABAD",
+   "Mean_LAI": "4.787356279526352",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KARIMNAGAR",
+   "Mean_LAI": "7.857091884759151",
+   "Year": 2024
+ },
+ {
+   "District_Name": "BHADRADRI KOTHAGUDEM",
+   "Mean_LAI": "12.33933424513717",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MAHABUBNAGAR",
+   "Mean_LAI": "7.507842745287267",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SIDDIPET",
+   "Mean_LAI": "7.70711136106614",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NALGONDA",
+   "Mean_LAI": "7.681690764368031",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NIZAMABAD",
+   "Mean_LAI": "8.543211277594235",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RANGAREDDY",
+   "Mean_LAI": "6.885413878085164",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MULUGU",
+   "Mean_LAI": "12.686185216897693",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JOGULAMBA GADWAL",
+   "Mean_LAI": "6.607027816458388",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KUMURAM BHEEM",
+   "Mean_LAI": "10.031852667071274",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MANCHERIAL",
+   "Mean_LAI": "9.510521956984237",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NIRMAL",
+   "Mean_LAI": "9.04806990817426",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KAMAREDDY",
+   "Mean_LAI": "8.042977019460624",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SANGAREDDY",
+   "Mean_LAI": "6.7955235584785525",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NAGARKURNOOL",
+   "Mean_LAI": "8.30654600651087",
+   "Year": 2024
+ },
+ {
+   "District_Name": "WANAPARTHY",
+   "Mean_LAI": "7.042538599115338",
+   "Year": 2024
+ },
+ {
+   "District_Name": "NARAYANPET",
+   "Mean_LAI": "7.1957568294670775",
+   "Year": 2024
+ },
+ {
+   "District_Name": "VIKARABAD",
+   "Mean_LAI": "6.68043750587016",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MEDCHAL-MALKAJGIRI",
+   "Mean_LAI": "6.66712913791151",
+   "Year": 2024
+ },
+ {
+   "District_Name": "YADADRI BHUVANAGIRI",
+   "Mean_LAI": "7.670136131877655",
+   "Year": 2024
+ },
+ {
+   "District_Name": "SURYAPET",
+   "Mean_LAI": "8.030999458219764",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KHAMMAM",
+   "Mean_LAI": "8.846457467388099",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MAHABUBABAD",
+   "Mean_LAI": "10.028705837529438",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JANGAON",
+   "Mean_LAI": "7.851568528975327",
+   "Year": 2024
+ },
+ {
+   "District_Name": "WARANGAL (URBAN",
+   "Mean_LAI": "7.912651631878215",
+   "Year": 2024
+ },
+ {
+   "District_Name": "WARANGAL (RURAL",
+   "Mean_LAI": "8.15187477785878",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JAYASHANKAR BHUPALAPALLY",
+   "Mean_LAI": "10.786483052554784",
+   "Year": 2024
+ },
+ {
+   "District_Name": "PEDDAPALLI",
+   "Mean_LAI": "7.893451074063956",
+   "Year": 2024
+ },
+ {
+   "District_Name": "JAGTIAL",
+   "Mean_LAI": "8.207982070712504",
+   "Year": 2024
+ },
+ {
+   "District_Name": "RANJANNA SIRCILLA",
+   "Mean_LAI": "7.841012879878079",
+   "Year": 2024
+ },
+ {
+   "District_Name": "MEDAK",
+   "Mean_LAI": "7.429006609102836",
+   "Year": 2024
+ },
+ {
+   "District_Name": "LEH",
+   "Mean_LAI": "2.796696966012842",
+   "Year": 2024
+ },
+ {
+   "District_Name": "KARGIL",
+   "Mean_LAI": "2.128878730672026",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DAMAN",
+   "Mean_LAI": "5.520504847690496",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DIU",
+   "Mean_LAI": "6.385224534879708",
+   "Year": 2024
+ },
+ {
+   "District_Name": "DADRA & NAGAR HAVELI",
+   "Mean_LAI": "8.543647288824607",
+   "Year": 2024
+ }
+]
