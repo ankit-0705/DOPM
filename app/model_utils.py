@@ -5,47 +5,46 @@ from datetime import datetime
 from difflib import get_close_matches
 
 # Load models
-combined_model = joblib.load('models/combined_outbreak_model.pkl')
-cases_model = joblib.load('models/xgb_cases_model.pkl')
-deaths_model = joblib.load('models/xgb_deaths_model.pkl')
+combined_model = joblib.load("models/combined_outbreak_model.pkl")
+cases_model = joblib.load("models/xgb_cases_model.pkl")
+deaths_model = joblib.load("models/xgb_deaths_model.pkl")
 
 # Load label encoders
-label_encoders = joblib.load('models/label_encoders.pkl')
+label_encoders = joblib.load("models/label_encoders.pkl")
 
 # Load location data
-location_data = pd.read_csv('data/processed_data.csv')
+location_data = pd.read_csv("data/processed_data.csv")
 
-# Load feature order for inference
-FEATURE_ORDER_FILE = "models/feature_order.npy"
-feature_order = np.load(FEATURE_ORDER_FILE, allow_pickle=True)
+# Load feature order
+feature_order = np.load("models/feature_order.npy", allow_pickle=True)
 
-
-# ---------------------------
-#   Helper functions
-# ---------------------------
 
 def get_all_states():
-    le = label_encoders['state_ut']
+    le = label_encoders["state_ut"]
     return sorted(le.classes_)
 
 
 def get_districts_by_state(state):
-    """Return all districts for a given state."""
-    if state not in label_encoders['state_ut'].classes_:
-        matches = get_close_matches(state, label_encoders['state_ut'].classes_, n=1, cutoff=0.8)
-        if matches:
-            state = matches[0]
-        else:
-            raise ValueError(f"Unknown state: {state}")
+    """Return all districts for a given state (with fuzzy matching)."""
+    try:
+        le = label_encoders["state_ut"]
+        if state not in le.classes_:
+            matches = get_close_matches(state, le.classes_, n=1, cutoff=0.8)
+            if matches:
+                state = matches[0]
+            else:
+                raise ValueError(f"Unknown state: {state}")
 
-    state_encoded = label_encoders['state_ut'].transform([state])[0]
-    districts_encoded = location_data[location_data['state_ut'] == state_encoded]['district'].unique()
-    return sorted(label_encoders['district'].inverse_transform(districts_encoded))
+        state_encoded = le.transform([state])[0]
+        districts_encoded = location_data[
+            location_data["state_ut"] == state_encoded
+        ]["district"].unique()
 
-
-def get_all_diseases():
-    le = label_encoders['Disease']
-    return sorted(le.classes_)
+        district_le = label_encoders["district"]
+        return sorted(district_le.inverse_transform(districts_encoded))
+    except Exception as e:
+        print(f"⚠️ Error in get_districts_by_state({state}): {e}")
+        return []
 
 
 def safe_get_label(label, le):
@@ -53,64 +52,59 @@ def safe_get_label(label, le):
     label = label.strip()
     if label in le.classes_:
         return label
-    # fuzzy match for near names
     matches = get_close_matches(label, le.classes_, n=1, cutoff=0.8)
     if matches:
         print(f"⚠️ Using closest match for '{label}': '{matches[0]}'")
         return matches[0]
-    raise ValueError(f"Unknown label: {label}")
+    print(f"⚠️ Unknown label: {label}")
+    return le.classes_[0]  # fallback to first known label
 
 
 def get_lat_long(state, district):
     """Safely fetch latitude and longitude for a given state/district."""
-    state_le = label_encoders['state_ut']
-    district_le = label_encoders['district']
+    try:
+        state_le = label_encoders["state_ut"]
+        district_le = label_encoders["district"]
 
-    # Normalize input
-    state = safe_get_label(state.title().strip(), state_le)
-    district = safe_get_label(district.title().strip(), district_le)
+        state = safe_get_label(state.title().strip(), state_le)
+        district = safe_get_label(district.title().strip(), district_le)
 
-    state_encoded = state_le.transform([state])[0]
-    district_encoded = district_le.transform([district])[0]
+        state_encoded = state_le.transform([state])[0]
+        district_encoded = district_le.transform([district])[0]
 
-    match = location_data[
-        (location_data['state_ut'] == state_encoded) &
-        (location_data['district'] == district_encoded)
-    ]
+        match = location_data[
+            (location_data["state_ut"] == state_encoded)
+            & (location_data["district"] == district_encoded)
+        ]
 
-    if not match.empty:
-        return float(match['Latitude'].values[0]), float(match['Longitude'].values[0])
-    else:
-        return None, None
+        if not match.empty:
+            return float(match["Latitude"].values[0]), float(match["Longitude"].values[0])
+        else:
+            print(f"⚠️ No match found for {district}, {state}")
+            return 0.0, 0.0
+    except Exception as e:
+        print(f"⚠️ Error in get_lat_long({state}, {district}): {e}")
+        return 0.0, 0.0
 
-
-# ---------------------------
-#   Model Input Utilities
-# ---------------------------
 
 def encode_inputs(df):
-    for col in ['state_ut', 'district', 'Disease']:
+    for col in ["state_ut", "district", "Disease"]:
         if col in df.columns:
-            df[col] = label_encoders[col].transform(df[col])
+            le = label_encoders[col]
+            df[col] = [safe_get_label(v, le) for v in df[col]]
+            df[col] = le.transform(df[col])
     return df
 
 
 def prepare_input(features):
-    # Add week_of_outbreak column if needed
-    if 'week_of_outbreak' not in features.columns:
-        current_week = datetime.now().isocalendar()[1]
-        features['week_of_outbreak'] = current_week
-
-    # Encode categorical columns
+    if "week_of_outbreak" not in features.columns:
+        features["week_of_outbreak"] = datetime.now().isocalendar()[1]
     features = encode_inputs(features)
 
-    # Reorder columns as per feature_order.npy; raise error if any missing
     missing_cols = [col for col in feature_order if col not in features.columns]
-    if missing_cols:
-        raise ValueError(f"Missing columns for prediction: {missing_cols}")
-
-    features = features.reindex(columns=feature_order)
-    return features
+    for col in missing_cols:
+        features[col] = 0
+    return features.reindex(columns=feature_order)
 
 
 def predict_outbreak(user_input_df, threshold=0.45):
