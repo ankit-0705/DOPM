@@ -3,8 +3,9 @@ import axios from "axios";
 import Navbar from "./components/Navbar";
 import PredictionDashboard from "./components/PredictionDashboard";
 import { FiSearch, FiMapPin, FiActivity, FiShield, FiTrendingUp, FiArrowRight, FiX } from "react-icons/fi";
+const backendUrl = import.meta.env.VITE_API_BASE_URL;
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = backendUrl;
 
 function App() {
   const [states, setStates] = useState([]);
