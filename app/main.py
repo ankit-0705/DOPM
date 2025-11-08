@@ -10,6 +10,10 @@ import json
 import os
 from shapely.geometry import shape, Polygon, MultiPolygon
 from pyproj import Geod
+from dotenv import load_dotenv
+load_dotenv()
+geoapify_secretkey = os.getenv("GEOAPIFY_API_KEY")
+weather_secretkey = os.getenv("WEATHER_API_KEY")
 
 # --- Import helper functions from model_utils ---
 from app.model_utils import (
@@ -43,8 +47,8 @@ with open("data/Population.json") as f:
     pop_data = json.load(f)
 
 # --- API Keys and Cache Setup ---
-GEOAPIFY_API_KEY = "75d4a0aeca9d4aafba92b0e78d7aa01c"
-WEATHER_API_KEY = "bd085879aea5ab9b48a1b4bec38d4269"  # Your Weatherstack key
+GEOAPIFY_API_KEY = geoapify_secretkey
+WEATHER_API_KEY = weather_secretkey 
 AREA_CACHE_FILE = "data/District_Area.json"
 AREA_CACHE = {}
 

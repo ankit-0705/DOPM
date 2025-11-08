@@ -12,7 +12,7 @@ ENV/
 env/
 .venv/
 .ENV/
-.env/
+.env
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
