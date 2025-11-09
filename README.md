@@ -1,4 +1,4 @@
-# 🦠 Disease Outbreak Prediction System 2.0
+# 🦠 Disease Outbreak Prediction System
 
 > An AI-powered climate-health intelligence platform that predicts potential disease outbreaks using real-time environmental and demographic data, enabling proactive public health decision-making.
 
@@ -6,7 +6,7 @@
 
 ## 🎯 Overview & Motivation
 
-**Disease Outbreak Prediction System 2.0** is a full-stack machine learning application designed to forecast disease outbreak risks across Indian districts by analyzing a comprehensive suite of environmental, climatic, and demographic factors. The system leverages advanced ensemble models (CatBoost and XGBoost) trained on historical epidemiological data to provide real-time risk assessments for diseases like Dengue, Chikungunya, and Cholera.
+**Disease Outbreak Prediction System ** is a full-stack machine learning application designed to forecast disease outbreak risks across Indian districts by analyzing a comprehensive suite of environmental, climatic, and demographic factors. The system leverages advanced ensemble models (CatBoost and XGBoost) trained on historical epidemiological data to provide real-time risk assessments for diseases like Dengue, Chikungunya, and Cholera.
 
 ### Why This Matters
 
@@ -230,7 +230,7 @@ The system follows a sophisticated data flow from user input to prediction outpu
 
 ## 🧠 Learnings & Takeaways
 
-Building Disease Outbreak Prediction System 2.0 from prototype to production provided invaluable insights:
+Building Disease Outbreak Prediction System from prototype to production provided invaluable insights:
 
 ### Technical Growth
 
@@ -435,7 +435,7 @@ This project was developed with dedication and attention to detail. Special than
 
 ## 🤝 Feedback Welcome
 
-We're continuously improving Disease Outbreak Prediction System 2.0. Your feedback, suggestions, and contributions are invaluable!
+We're continuously improving Disease Outbreak Prediction System. Your feedback, suggestions, and contributions are invaluable!
 
 - **Report Issues**: [GitHub Issues Link]
 - **Feature Requests**: [GitHub Discussions Link]
