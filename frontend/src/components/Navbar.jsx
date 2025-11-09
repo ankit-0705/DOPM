@@ -137,7 +137,7 @@ const Navbar = ({
           <div className="relative">
             <div className="w-10 h-10 bg-linear-to-br from-gray-700 to-gray-600 rounded-xl flex items-center justify-center shadow-lg border border-gray-600/30">
               {/* <FiSearch className="text-gray-200 text-lg" /> */}
-              <img src={dops_logo} alt="" height="40px" width="40px"/>
+              <img src={dops_logo} alt="dops_logo" height="40px" width="40px"/>
             </div>
             <div className="absolute -top-1 -right-1 w-4 h-4 bg-gray-600 rounded-full border-2 border-black"></div>
           </div>

@@ -3,11 +3,14 @@ import axios from "axios";
 import Navbar from "./components/Navbar";
 import PredictionDashboard from "./components/PredictionDashboard";
 import { FiSearch, FiMapPin, FiActivity, FiShield, FiTrendingUp, FiArrowRight, FiX } from "react-icons/fi";
+import { WarmUpScreen } from "./components/WarmUpScreen"; // Assuming WarmUpScreen is in separate file
 const backendUrl = import.meta.env.VITE_API_BASE_URL;
 
 const API_URL = backendUrl;
 
+
 function App() {
+  // Existing states
   const [states, setStates] = useState([]);
   const [districts, setDistricts] = useState([]);
   const [selectedState, setSelectedState] = useState("");
@@ -17,31 +20,117 @@ function App() {
   const [error, setError] = useState("");
   const [hasInteracted, setHasInteracted] = useState(false);
 
+  // Warm-up states
+  const [isWarmingUp, setIsWarmingUp] = useState(true);
+  const [warmUpProgress, setWarmUpProgress] = useState(0);
+  const [currentPhase, setCurrentPhase] = useState(0);
+
+  // Warm-up sequence phases configuration
+  const warmUpPhases = [
+    { duration: 10000, progress: 20 },
+    { duration: 15000, progress: 40 },
+    { duration: 10000, progress: 60 },
+    { duration: 8000, progress: 80 },
+    { duration: 7000, progress: 100 }
+  ];
+
+  // Warm-up logic - runs on component mount
   useEffect(() => {
-    // Preload states data
+    let totalTime = 0;
+    let phaseIndex = 0;
+
+    // Set up phase transitions
+    warmUpPhases.forEach((phase) => {
+      setTimeout(() => {
+        setCurrentPhase(phaseIndex);
+        setWarmUpProgress(phase.progress);
+        phaseIndex++;
+      }, totalTime);
+      totalTime += phase.duration;
+    });
+
+    // Early backend ping to warm up Render (silent, 3 seconds after load)
+    setTimeout(() => {
+      axios
+        .get(`${API_URL}/states`, { timeout: 5000 })
+        .then(() => {
+          // If backend responds early, we can transition faster
+          console.log("Backend warmed up early!");
+          setIsWarmingUp(false);
+          // Load states immediately
+          axios
+            .get(`${API_URL}/states`)
+            .then((res) => {
+              setStates(res.data.states || []);
+              setHasInteracted(true);
+            })
+            .catch((err) => {
+              console.error("Failed to load states:", err);
+              setError("Failed to initialize. Please refresh the page.");
+              setHasInteracted(true);
+            });
+        })
+        .catch((err) => {
+          // Silent fail - backend might not be ready yet
+          console.log("Early backend ping - warming up service...");
+        });
+    }, 3000);
+
+    // Complete warm-up after 50 seconds and initialize main app (fallback)
+    const timeoutId = setTimeout(() => {
+      setIsWarmingUp(false);
+      
+      // Now load actual states data after warm-up
+      axios
+        .get(`${API_URL}/states`)
+        .then((res) => {
+          setStates(res.data.states || []);
+          setHasInteracted(true);
+        })
+        .catch((err) => {
+          console.error("Failed to load states after warm-up:", err);
+          setError("Failed to initialize. Please refresh the page.");
+          setHasInteracted(true);
+        });
+    }, 50000);
+
+    // Cleanup timeouts if component unmounts
+    return () => clearTimeout(timeoutId);
+  }, []);
+
+  // Modified original useEffects to respect warm-up state
+  useEffect(() => {
+    // Preload states data - only after warm-up
+    if (isWarmingUp) return;
+    
     axios
       .get(`${API_URL}/states`)
       .then((res) => {
         setStates(res.data.states || []);
-        setHasInteracted(true); // Mark as interacted after loading
+        setHasInteracted(true);
       })
       .catch((err) => {
         console.error("Failed to load states:", err);
         setError("Failed to initialize. Please refresh the page.");
         setHasInteracted(true);
       });
-  }, []);
+  }, [isWarmingUp]);
 
   useEffect(() => {
-    if (!selectedState) return;
+    if (!selectedState || isWarmingUp) return;
     setDistricts([]); // Reset districts
     axios
       .get(`${API_URL}/districts/${selectedState}`)
       .then((res) => setDistricts(res.data.districts || []))
       .catch(() => setError("Failed to load districts"));
-  }, [selectedState]);
+  }, [selectedState, isWarmingUp]);
 
   const handlePredict = async (state, district) => {
+    if (isWarmingUp) {
+      console.log("Prediction blocked during warm-up");
+      return;
+    }
+    
     if (!state || !district) {
       setError("Please select both State and District");
       return;
@@ -65,90 +154,101 @@ function App() {
   };
 
   const handleSearchInitiated = () => {
+    if (isWarmingUp) {
+      console.log("Search blocked during warm-up");
+      return;
+    }
     setHasInteracted(true);
   };
 
   // Show landing if no predictions yet
   const showLanding = predictions.length === 0;
 
+  // Main render logic - show warm-up first, then existing content
   return (
     <div className="min-h-screen bg-black text-white">
-      <Navbar
-        states={states}
-        districts={districts}
-        selectedState={selectedState}
-        setSelectedState={setSelectedState}
-        selectedDistrict={selectedDistrict}
-        setSelectedDistrict={setSelectedDistrict}
-        onPredict={handlePredict}
-        loading={loading}
-        error={error}
-        setError={setError}
-        onSearchInitiated={handleSearchInitiated}
-        showLanding={showLanding}
-      />
-
-      {/* Global Error Display */}
-      {error && !showLanding && (
-        <div className="fixed top-20 right-4 z-50 max-w-sm">
-          <div className="bg-gray-900/90 backdrop-blur-sm border border-red-600/30 rounded-lg p-4 shadow-lg">
-            <div className="flex items-center space-x-2">
-              <FiX className="text-red-400" />
-              <p className="text-sm text-red-100">{error}</p>
-            </div>
-            <button
-              onClick={() => setError("")}
-              className="absolute top-2 right-2 text-red-400 hover:text-red-200"
-            >
-              <FiX size={14} />
-            </button>
-          </div>
-        </div>
-      )}
-
-      {/* Landing Page / Full Content */}
-      {showLanding ? (
-        <LandingPage onSearchClick={handleSearchInitiated} />
+      {isWarmingUp ? (
+        <WarmUpScreen progress={warmUpProgress} currentPhase={currentPhase} />
       ) : (
-        // Dashboard (when predictions are available)
         <>
-          {predictions.length > 0 && <PredictionDashboard predictions={predictions} />}
-          {hasInteracted && predictions.length === 0 && !loading && (
-            <div className="flex items-center justify-center min-h-[60vh] px-4">
-              <div className="text-center max-w-md">
-                <FiTrendingUp className="text-6xl text-gray-400 mx-auto mb-4" />
-                <h2 className="text-2xl font-semibold text-gray-200 mb-2">
-                  Ready for Analysis
-                </h2>
-                <p className="text-gray-400 mb-6">
-                  Select a location using the search icon above to get outbreak predictions.
-                </p>
+          <Navbar
+            states={states}
+            districts={districts}
+            selectedState={selectedState}
+            setSelectedState={setSelectedState}
+            selectedDistrict={selectedDistrict}
+            setSelectedDistrict={setSelectedDistrict}
+            onPredict={handlePredict}
+            loading={loading}
+            error={error}
+            setError={setError}
+            onSearchInitiated={handleSearchInitiated}
+            showLanding={showLanding}
+          />
+
+          {/* Global Error Display */}
+          {error && !showLanding && (
+            <div className="fixed top-20 right-4 z-50 max-w-sm">
+              <div className="bg-gray-900/90 backdrop-blur-sm border border-red-600/30 rounded-lg p-4 shadow-lg">
+                <div className="flex items-center space-x-2">
+                  <FiX className="text-red-400" />
+                  <p className="text-sm text-red-100">{error}</p>
+                </div>
                 <button
-                  onClick={handleSearchInitiated}
-                  className="px-6 py-2 bg-gray-800 hover:bg-gray-700 border border-gray-600 rounded-lg text-white font-medium transition-colors"
+                  onClick={() => setError("")}
+                  className="absolute top-2 right-2 text-red-400 hover:text-red-200"
                 >
-                  Start Search
+                  <FiX size={14} />
                 </button>
               </div>
             </div>
           )}
-        </>
-      )}
 
-      {/* Loading Overlay */}
-      {loading && (
-        <div className="fixed inset-0 bg-black/60 backdrop-blur-sm flex items-center justify-center z-50">
-          <div className="bg-gray-900/95 backdrop-blur-sm border border-gray-700 rounded-xl p-6 text-center max-w-sm">
-            <div className="flex items-center justify-center mb-4">
-              <svg className="animate-spin -ml-1 mr-3 h-8 w-8 text-gray-400" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-                <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
-                <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
-              </svg>
-              <span className="text-white font-medium">Analyzing Data...</span>
+          {/* Landing Page / Full Content */}
+          {showLanding ? (
+            <LandingPage onSearchClick={handleSearchInitiated} />
+          ) : (
+            // Dashboard (when predictions are available)
+            <>
+              {predictions.length > 0 && <PredictionDashboard predictions={predictions} />}
+              {hasInteracted && predictions.length === 0 && !loading && (
+                <div className="flex items-center justify-center min-h-[60vh] px-4">
+                  <div className="text-center max-w-md">
+                    <FiTrendingUp className="text-6xl text-gray-400 mx-auto mb-4" />
+                    <h2 className="text-2xl font-semibold text-gray-200 mb-2">
+                      Ready for Analysis
+                    </h2>
+                    <p className="text-gray-400 mb-6">
+                      Select a location using the search icon above to get outbreak predictions.
+                    </p>
+                    <button
+                      onClick={handleSearchInitiated}
+                      className="px-6 py-2 bg-gray-800 hover:bg-gray-700 border border-gray-600 rounded-lg text-white font-medium transition-colors"
+                    >
+                      Start Search
+                    </button>
+                  </div>
+                </div>
+              )}
+            </>
+          )}
+
+          {/* Loading Overlay */}
+          {loading && (
+            <div className="fixed inset-0 bg-black/60 backdrop-blur-sm flex items-center justify-center z-50">
+              <div className="bg-gray-900/95 backdrop-blur-sm border border-gray-700 rounded-xl p-6 text-center max-w-sm">
+                <div className="flex items-center justify-center mb-4">
+                  <svg className="animate-spin -ml-1 mr-3 h-8 w-8 text-gray-400" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                    <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                    <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                  </svg>
+                  <span className="text-white font-medium">Analyzing Data...</span>
+                </div>
+                <p className="text-gray-300 text-sm">Processing environmental factors, weather patterns, and population data</p>
+              </div>
             </div>
-            <p className="text-gray-300 text-sm">Processing environmental factors, weather patterns, and population data</p>
-          </div>
-        </div>
+          )}
+        </>
       )}
     </div>
   );
